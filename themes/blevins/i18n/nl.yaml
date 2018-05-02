@@ -1,4 +1,5 @@
-learnMore:
-    other: Meer Weten
-readMore:
-    other: Meer Lezen
+--- 
+learnMore: 
+  other: "Meer Weten"
+readMore: 
+  other: "Meer Lezen"
