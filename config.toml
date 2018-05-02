@@ -1,0 +1,15 @@
+baseurl = "/"
+DefaultContentLanguage = "en"
+staticDir = "static"
+# title = "Homepage"
+[languages]
+	[languages.en]
+		baseURL = "https://en.blevins.nl"
+		languageName = "English"
+		title = "In English"
+		weight = 1
+	[languages.nl]
+		baseURL = "https://www.blevins.nl"
+		languageName = "Nederlands"
+		title = "In het Nederlands"
+		weight = 2
