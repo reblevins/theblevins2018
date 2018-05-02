@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- {{ partial "banner" .Params.banner }} -->
-{{ partial "banner" (dict "heading" .Params.banner.heading "text" .Params.banner.text) }}
+{{ partial "banner" . }}
 
 {{ partial "section-1" (dict "heading" .Params.section_1.heading "text" .Params.section_1.text) }}
 

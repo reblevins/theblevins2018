@@ -1,11 +1,9 @@
 ---
-title: "Blevins | empowering people to fulfill their calling"
-image: /img/home-jumbotron.jpg
-banner:
-    heading: The Blevins Family
-    text: "Empowering people<br>to fulfill their calling."
+title: "Blevins &#124; empowering people to fulfill their calling"
+banner_heading: The Blevins Family
+banner_text: "Empowering people<br>to fulfill their calling."
 section_1:
-    heading: Blevins Ministry Video
+    heading: "Blevins Ministry Video"
     text: "We hope you enjoy this video we made that gives you a quick overview<br>of our work and lives here with YWAM in Colorado Springs, CO."
 section_2:
     spotlight1:

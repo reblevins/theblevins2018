@@ -1,8 +1,8 @@
 <!-- Banner -->
 	<section id="banner">
 		<div class="inner">
-			<h2>{{ .heading }}</h2>
-			<p>{{ .text | safeHTML }}</p>
+			<h2>{{ .Params.banner_heading }}</h2>
+			<p>{{ .Params.banner_text }}</p>
 			<ul class="actions">
 				<li><a href="#" class="button special">Activate</a></li>
 			</ul>
