@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<!-- {{ partial "banner" .Params.banner }} -->
+{{ partial "banner" (dict "heading" .Params.banner.heading "text" .Params.banner.text) }}
+
+{{ partial "section-1" (dict "heading" .Params.section_1.heading "text" .Params.section_1.text) }}
+
+{{ partial "section-2" .Params.section_2 }}
+
+{{ partial "home-update" . }}
+
+{{ end }}

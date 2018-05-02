@@ -1,6 +1,7 @@
 baseurl = "/"
 DefaultContentLanguage = "en"
 staticDir = "static"
+theme = "blevins"
 # title = "Homepage"
 [languages]
 	[languages.en]
