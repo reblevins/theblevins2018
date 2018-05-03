@@ -1,7 +1,19 @@
 {{ define "main" }}
 
 <!-- {{ partial "banner" .Params.banner }} -->
-{{ partial "banner" . }}
+<!-- {{ partial "banner" . }} -->
+
+<!-- Banner -->
+	<section id="banner">
+		<div class="inner">
+			<h2>{{ .Params.banner_heading }}</h2>
+			<p>{{ .Params.banner_text | safeHTML }}</p>
+			<ul class="actions">
+				<li><a href="#" class="button special">Activate</a></li>
+			</ul>
+		</div>
+		<a href="#one" class="more scrolly">{{ T "learn_more" }}</a>
+	</section>
 
 {{ partial "section-1" (dict "heading" .Params.section_1.heading "text" .Params.section_1.text) }}
 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blevins mensen in staat stellen hun roeping te vervullen on In het Nederlands</title>
-    <link>https://www.blevins.nl/</link>
-    <description>Recent content in Blevins mensen in staat stellen hun roeping te vervullen on In het Nederlands</description>
+    <title>Updates on In het Nederlands</title>
+    <link>https://www.blevins.nl/update/</link>
+    <description>Recent content in Updates on In het Nederlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 26 Feb 2018 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://www.blevins.nl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.blevins.nl/update/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -1,0 +1,45 @@
+{{ define "main" }}
+<style type="text/css">
+header {
+	{{ if .Params.image }}background-image: {{ .Params.image |safeHTML }};{{ end }}
+}
+</style>
+<!-- Main -->
+	<article id="main">
+		<header>
+			<!-- {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }} -->
+			<h2>{{ .Title }}</h2>
+			<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+		</header>
+		<section class="wrapper style5">
+			<div class="inner">
+
+			{{ if .IsTranslated }}
+			<ul>
+			    {{ range .Translations }}
+			    <li>
+			        <a href="{{ .Permalink }}">{{ .Lang }}</a>
+			    </li>
+			    {{ end}}
+			</ul>
+			{{ end }}
+
+			<h3>Lorem ipsum dolor</h3>
+			{{ .Content }}
+
+			</div>
+		</section>
+	</article>
+  <!-- <div class="mw6 center ph3 pv4">
+	<h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+	<div class="flex justify-between grey-3">
+	  <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+	  <p>Read in {{ .ReadingTime }} minutes</p>
+	</div>
+	<div class="cms mw6">
+	  <p>{{ .Description }}</p>
+	  {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+	  {{ .Content }}
+	</div>
+  </div> -->
+{{ end }}

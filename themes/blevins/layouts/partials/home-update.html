@@ -7,7 +7,7 @@
 				fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
 			</header>
 			<ul class="features">
-				{{ range first 4 (where .Data.Pages "Type" "post") }}
+				{{ range first 4 (where .Data.Pages "Type" "update") }}
 					<li>
 						{{ .Render "li" }}
 					</li>
