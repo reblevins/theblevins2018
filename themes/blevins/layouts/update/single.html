@@ -17,22 +17,10 @@
 		
 		<section class="wrapper style5">
 			<div class="inner">
-
-			{{ if .IsTranslated }}
-			<ul>
-			    {{ range .Translations }}
-			    <li>
-			        <a href="{{ .Permalink }}">{{ .Lang }}</a>
-			    </li>
-			    {{ end}}
-			</ul>
-			{{ end }}
-
-			<h2>{{ .Title }}</h2>
-			<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-			<!-- <h3>Lorem ipsum dolor</h3> -->
-			{{ .Content }}
-
+				<h2>{{ .Title }}</h2>
+				<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+				<!-- <h3>Lorem ipsum dolor</h3> -->
+				{{ .Content }}
 			</div>
 		</section>
 	</article>

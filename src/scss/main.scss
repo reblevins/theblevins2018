@@ -1943,6 +1943,11 @@
 	    text-transform: none;
 	}
 
+	figcaption.full {
+		clear: both;
+		margin-bottom: 2em;
+	}
+
 /* Image */
 	img {
 		width: 100%;
@@ -2016,9 +2021,17 @@
 	overflow: hidden;
 	clear: both;
 
+	.image.left {
+	    clear: left;
+	}
+
 	.image.one-half {
 		max-width: 46%;
 		margin: 0 0 2em 0; 
+	}
+
+	.image.no-caption {
+		margin: 0;
 	}
 
 	.caption {
@@ -3782,6 +3795,20 @@
 
 	body.is-mobile #main > header {
 		background-attachment: scroll;
+	}
+
+	.languages {
+		float: right;
+		list-style: none;
+		margin: 3px 8em 0 0;
+
+		a {
+			text-decoration: none;
+			border-bottom: none;
+		}
+		img {
+			width: 24px;
+		}
 	}
 
 /* Footer */
