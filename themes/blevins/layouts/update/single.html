@@ -1,16 +1,20 @@
 {{ define "main" }}
 <style type="text/css">
-header {
-	{{ if .Params.image }}background-image: {{ .Params.image |safeHTML }};{{ end }}
+#update-banner {
+	{{ if .Params.image }}
+	background-image: url('{{ .Params.image | safeCSS }}');
+	{{ end }}
 }
 </style>
 <!-- Main -->
 	<article id="main">
-		<header>
-			<!-- {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }} -->
-			<h2>{{ .Title }}</h2>
-			<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-		</header>
+		<section id="update-banner">
+			<div class="inner">
+				<!-- <h2>{{ .Title }}</h2>
+				<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
+			</div>
+		</section>
+		
 		<section class="wrapper style5">
 			<div class="inner">
 
@@ -24,7 +28,9 @@ header {
 			</ul>
 			{{ end }}
 
-			<h3>Lorem ipsum dolor</h3>
+			<h2>{{ .Title }}</h2>
+			<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+			<!-- <h3>Lorem ipsum dolor</h3> -->
 			{{ .Content }}
 
 			</div>

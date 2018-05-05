@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 	{{ partial "head" . }}
-	<body class="landing">
+	<body{{ if .IsHome }} class="landing"{{ end }}>
 
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">

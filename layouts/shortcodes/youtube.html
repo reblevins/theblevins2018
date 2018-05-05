@@ -1,0 +1,11 @@
+<!-- youtube -->
+<iframe
+	class="video youtube" 
+	width="{{ if .Get "width" }}{{ .Get "width" }}{{ else }}560{{ end }}"
+	height="{{ if .Get "height" }}{{ .Get "height" }}{{ else }}315{{ end }}"
+	src="https://www.youtube.com/embed/{{ .Get "id" }}"
+	frameborder="0"
+	allow="autoplay; encrypted-media"
+	allowfullscreen>		
+</iframe>
+<!-- youtube -->
