@@ -1,19 +1,17 @@
-baseurl = "/"
 DefaultContentLanguage = "en"
+baseurl = "/"
+disableFastRender = true
 staticDir = "static"
 theme = "blevins"
-disableFastRender = true
-# title = "Homepage"
-[languages]
-	[languages.en]
-		baseURL = "https://en.blevins.nl"
-		languageName = "English"
-		title = "In English"
-		weight = 1
-	[languages.nl]
-		baseURL = "https://www.blevins.nl"
-		languageName = "Nederlands"
-		title = "In het Nederlands"
-		weight = 2
+[languages.en]
+baseURL = "https://en.blevins.nl"
+languageName = "English"
+title = "In English"
+weight = 1
+[languages.nl]
+baseURL = "https://www.blevins.nl"
+languageName = "Nederlands"
+title = "In het Nederlands"
+weight = 2
 [permalinks]
-	update = "/:year/:month/:day/:title/"
+update = "/:year/:month/:day/:title/"

@@ -1,9 +1,10 @@
 ---
 title: Beer op bezoek
-date: '2017-09-04T00:00:00-06:00'
-description: >-
-  Ooit door een beer wakker gemaakt, die graag je vuilniscontainer in wilde duiken, maar zijn zin niet kreeg?
-image: /img/website-september-2017-banner.png
+date: 2017-09-04 00:00:00 -0600
+description: Ooit door een beer wakker gemaakt, die graag je vuilniscontainer in wilde
+  duiken, maar zijn zin niet kreeg?
+image: "/img/website-september-2017-banner.png"
+
 ---
 Ooit door een beer wakker gemaakt, die graag je vuilniscontainer in wilde duiken, maar zijn zin niet kreeg? Wij hebben dit nu verschillende keren meegemaakt, maar deze laatste keer kregen we de beer ook echt van dichtbij te zien. Gelukkig zit er een slot op onze vuilniscontainer, maar de beer ging er flink mee te keer en dat maakte dat wij wakker schrokken en vanuit ons slaapkamerraam de beer “live” konden bewonderen in onze achtertuin.
 

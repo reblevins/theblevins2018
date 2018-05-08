@@ -1,12 +1,11 @@
 ---
 title: This is bear-y good!
-date: '2017-09-04T00:00:00-06:00'
-description: >-
-  Ever been awakened in the middle of the night by a bear trying to get into
-  your trash can, but…
-image: /img/website-september-2017-banner.png
----
+date: 2017-09-04 00:00:00 -0600
+description: Ever been awakened in the middle of the night by a bear trying to get
+  into your trash can, but…
+image: "/img/website-september-2017-banner.png"
 
+---
 Ever been awakened in the middle of the night by a bear trying to get into your trash can, but just couldn't get in? This has happened to us a couple of times, but the most recent time, we finally got to see the bear live and in person. Thankfully, we have a chain on our trash can that kept him (her?) out, and once he saw us peeking out of the window at him, he ran away, but not before we got a look at him.
 
 The last few months, the news has been full of bears active in and around Colorado Springs and all of Colorado, you may have even had some wondering through your town. We have even gotten a couple of messages from the girls' school district that Sarah's school was on "lock-down" because of a mama bear and her cubs in the parking lot. Lisa's school warned us as well of an "active bear" around her school (most likely the one we had in our backyard).

@@ -1,10 +1,10 @@
 ---
-title: 'Van Hollandse directheid tot boerenkool!'
-date: '2018-02-26T00:00:00-07:00'
-description: >-
-  Ik zeg het zo vaak… we zijn hier nu 5 jaar en je zou denken dat we al aardig
-  “Amerikaans” zijn geworden. Ja en Nee! 
-image: /img/feb_2018_banner.png
+title: Van Hollandse directheid tot boerenkool!
+date: 2018-02-26 00:00:00 -0700
+description: 'Ik zeg het zo vaak… we zijn hier nu 5 jaar en je zou denken dat we al
+  aardig “Amerikaans” zijn geworden. Ja en Nee! '
+image: "/img/feb_2018_banner.png"
+
 ---
 Van Hollandse directheid tot boerenkool
 ---------------------------------------
