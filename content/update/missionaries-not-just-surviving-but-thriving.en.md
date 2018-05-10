@@ -11,7 +11,7 @@ International Member Care Consultation (IMCC)
 
 A couple weeks ago Jolanda attended the International Member Care Consultation (IMCC) at YWAM Orlando, FL. Together with YWAM Member Care workers from the Caribbean, East and South East Asia, Europe, North America, South America and Africa they came together to reconnect, receive teaching, and do a lot of networking. It was a great opportunity to learn about the different training models/courses and internships for member care workers. They received teaching on debriefing, caring for those in long-term crisis, those experiencing secondary trauma, compassion fatigue, and prevention care.
 
-"What a privilege to work with such a great team of people in Missionary Care" - Jolanda
+> "What a privilege to work with such a great team of people in Missionary Care" - Jolanda
 
 {{< figure class="image fit" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/ff57ca7d-0482-42ba-9080-bd836f10c3f9.jpg" title="The participants of the IMCC 2018" >}}
 
@@ -62,22 +62,14 @@ Jolanda is still the "receptionist" working from home. All the voicemails and em
 
 {{< img class="image fit" link="https://www.facebook.com/KRDONewsChannel13/videos/1841943322523007/" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/6521d1ff-a425-43c8-a2f8-320120cce4d7.png" title="<a href=\"https://www.facebook.com/KRDONewsChannel13/videos/1841943322523007/\">A beautiful video</a> of our \"backyard\", Garden of the Gods, which we pass daily going to and from school." >}}
 
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/d3a03714-af75-4ef1-99e7-8b0c374b0d20.jpg)
+<div class="gallery">
+    {{< img class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/d3a03714-af75-4ef1-99e7-8b0c374b0d20.jpg" title="Our beautiful Lisa" link="" >}}
 
-Our beautiful Lisa
+    {{< img class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/dbe31bcd-cad4-4c9e-9eab-4bd06dce0f71.jpg" title="In February, Lisa went to church winter camp for a weekend." link="" >}}
 
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/dbe31bcd-cad4-4c9e-9eab-4bd06dce0f71.jpg)
+    {{< img class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/a2fe62d7-b9d1-4094-b762-5d133c5d3198.jpg" title="Our beautiful Sarah in the snow!" link="" >}}
 
-In February, Lisa went to church winter camp for a weekend.
+    {{< img class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/f93bddc9-0490-420f-b4b6-277560e7a796.jpg" title="Visiting our neighbor \"Dot\" in rehab, who broke her ankle a few weeks ago." link="" >}}
+</div>
 
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/a2fe62d7-b9d1-4094-b762-5d133c5d3198.jpg)
-
-Our beautiful Sarah in the snow!
-
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/f93bddc9-0490-420f-b4b6-277560e7a796.jpg)
-
-Visiting our neighbor "Dot" in rehab, who broke her ankle a few weeks ago.
-
-![](https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/153565c5-ef3a-42e6-a5b8-19f0f247fb76.jpg)
-
-Jolanda's niece, Sabine visited us in January. She studied at a university in Connecticut for a semester and stopped by here "on her way" back home.
+{{< img class="image fit" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/153565c5-ef3a-42e6-a5b8-19f0f247fb76.jpg" title="Jolanda's niece, Sabine visited us in January. She studied at a university in Connecticut for a semester and stopped by here \"on her way\" back home." link="" >}}
