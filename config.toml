@@ -15,3 +15,4 @@ title = "In het Nederlands"
 weight = 2
 [permalinks]
 update = "/:year/:month/:day/:title/"
+page = "/:title/"

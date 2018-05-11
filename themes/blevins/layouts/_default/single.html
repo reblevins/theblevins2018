@@ -1,6 +1,25 @@
 {{ define "main" }}
-
-{{ partial "jumbotron" (dict "imageUrl" "/img/banner.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-{{ .Content }}
-
+<style type="text/css">
+#update-banner {
+	{{ if .Params.image }}
+	background-image: url('{{ .Params.image | safeCSS }}');
+	{{ end }}
+}
+</style>
+<!-- Main -->
+	<article id="main">
+		<section id="update-banner">
+			<div class="inner">
+				<!-- <h2>{{ .Title }}</h2>
+				<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
+			</div>
+		</section>
+		
+		<section class="wrapper style5">
+			<div class="inner">
+				<h1>{{ .Title }}</h1>
+				{{ .Content }}
+			</div>
+		</section>
+	</article>
 {{ end }}
