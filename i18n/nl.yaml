@@ -1,6 +1,0 @@
-learn_more: 
-  other: "Meer Weten"
-read_more: 
-  other: "Meer Lezen"
-date:
-  other: "{{ .Date.Day }} {{ index $.Site.Data.maanden (printf \"%d\" .Date.Month) }} {{ .Date.Year }}"
