@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on In English</title>
+    <link>https://en.blevins.nl/page/</link>
+    <description>Recent content in Pages on In English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://en.blevins.nl/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://en.blevins.nl/about-us/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://en.blevins.nl/about-us/</guid>
+      <description>We, Rodney and Jolanda Blevins, have been missionaries with Youth With A Mission (YWAM) since 1997. We both did a Discipleship Training School (DTS) at the YWAM base Heidebeek in Heerde, The Netherlands. The DTS is YWAM’s six month training course designed to help you understand God more deeply, live more like Jesus and identify your unique gifts and purpose to use in missions.
+In March 2000, we moved to the city of Zenica in Bosnia &amp;amp; Herzegovina where we lived and worked until June 2003.</description>
+    </item>
+    
+  </channel>
+</rss>
