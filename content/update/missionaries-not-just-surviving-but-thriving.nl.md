@@ -4,6 +4,7 @@ date: 2018-02-26 00:00:00 -0700
 description: 'Ik zeg het zo vaak… we zijn hier nu 5 jaar en je zou denken dat we al
   aardig “Amerikaans” zijn geworden. Ja en Nee! '
 image: "/img/feb_2018_banner.png"
+backgroundPosition: "bottom center"
 
 ---
 Ik zeg het zo vaak… we zijn hier nu 5 jaar en je zou denken dat we al aardig “Amerikaans” zijn geworden. Ja en Nee!   

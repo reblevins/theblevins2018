@@ -1,6 +1,6 @@
 {{ define "main" }}
 <style type="text/css">
-#update-banner {
+#page-banner {
 	{{ if .Params.image }}
 	background-image: url('{{ .Params.image | safeCSS }}');
 	{{ end }}
@@ -8,7 +8,7 @@
 </style>
 <!-- Main -->
 	<article id="main">
-		<section id="update-banner">
+		<section id="page-banner">
 			<div class="inner">
 				<!-- <h2>{{ .Title }}</h2>
 				<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->

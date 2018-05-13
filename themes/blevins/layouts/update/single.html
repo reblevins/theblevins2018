@@ -1,24 +1,28 @@
 {{ define "main" }}
+{{ if .Params.image }}
 <style type="text/css">
-#update-banner {
-	{{ if .Params.image }}
+#page-banner {
 	background-image: url('{{ .Params.image | safeCSS }}');
+	{{ if .Params.backgroundPosition }}
+	background-position: {{ .Params.backgroundPosition | safeCSS }} !important;
 	{{ end }}
 }
 </style>
+{{ end }}
 <!-- Main -->
 	<article id="main">
-		<section id="update-banner">
+		<section id="page-banner">
 			<div class="inner">
-				<!-- <h2>{{ .Title }}</h2>
-				<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
+				<h2>{{ .Title }}</h2>
+				<!-- <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
+				<p>{{ T "date" . }}</p>
 			</div>
 		</section>
 		
 		<section class="wrapper style5">
 			<div class="inner">
-				<h1>{{ .Title }}</h1>
-				<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+				<!-- <h1>{{ .Title }}</h1>
+				<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
 				<!-- <h3>Lorem ipsum dolor</h3> -->
 				{{ .Content }}
 			</div>
