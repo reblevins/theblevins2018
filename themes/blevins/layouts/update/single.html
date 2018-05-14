@@ -1,43 +1,12 @@
 {{ define "main" }}
-{{ if .Params.image }}
-<style type="text/css">
-#page-banner {
-	background-image: url('{{ .Params.image | safeCSS }}');
-	{{ if .Params.backgroundPosition }}
-	background-position: {{ .Params.backgroundPosition | safeCSS }} !important;
-	{{ end }}
-}
-</style>
-{{ end }}
 <!-- Main -->
 	<article id="main">
-		<section id="page-banner">
-			<div class="inner">
-				<h2>{{ .Title }}</h2>
-				<!-- <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
-				<p>{{ T "date" . }}</p>
-			</div>
-		</section>
-		
+		{{ partial "page-banner" . }}
+
 		<section class="wrapper style5">
 			<div class="inner">
-				<!-- <h1>{{ .Title }}</h1>
-				<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
-				<!-- <h3>Lorem ipsum dolor</h3> -->
 				{{ .Content }}
 			</div>
 		</section>
 	</article>
-  <!-- <div class="mw6 center ph3 pv4">
-	<h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-	<div class="flex justify-between grey-3">
-	  <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-	  <p>Read in {{ .ReadingTime }} minutes</p>
-	</div>
-	<div class="cms mw6">
-	  <p>{{ .Description }}</p>
-	  {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-	  {{ .Content }}
-	</div>
-  </div> -->
 {{ end }}

@@ -1,23 +1,10 @@
 {{ define "main" }}
-<style type="text/css">
-#page-banner {
-	{{ if .Params.image }}
-	background-image: url('{{ .Params.image | safeCSS }}');
-	{{ end }}
-}
-</style>
 <!-- Main -->
 	<article id="main">
-		<section id="page-banner">
-			<div class="inner">
-				<!-- <h2>{{ .Title }}</h2>
-				<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
-			</div>
-		</section>
+		{{ partial "page-banner" . }}
 		
 		<section class="wrapper style5">
 			<div class="inner">
-				<h1>{{ .Title }}</h1>
 				{{ .Content }}
 			</div>
 		</section>

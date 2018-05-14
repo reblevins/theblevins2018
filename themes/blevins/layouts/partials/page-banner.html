@@ -1,0 +1,17 @@
+{{ if .Params.image }}
+<style type="text/css">
+#page-banner {
+	background-image: url('{{ .Params.image | safeCSS }}');
+	{{ if .Params.backgroundPosition }}
+	background-position: {{ .Params.backgroundPosition | safeCSS }} !important;
+	{{ end }}
+}
+</style>
+{{ end }}
+<!-- page-banner -->
+	<section id="page-banner">
+		<div class="inner">
+			<h2>{{ .Title }}</h2>
+			{{ if eq .Type "update" }}<p>{{ T "date" . }}</p>{{ end }}
+		</div>
+	</section>
