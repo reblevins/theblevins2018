@@ -1586,7 +1586,8 @@
 	#banner {
 		@include vendor('display', 'flex');
 		@include vendor('flex-direction', 'column');
-		@include vendor('justify-content', 'center');
+		// @include vendor('justify-content', 'flex-start');
+		justify-content: flex-start;
 		cursor: default;
 		height: 100vh;
 		min-height: 35em;
