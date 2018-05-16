@@ -8,11 +8,73 @@ baseURL = "https://en.blevins.nl"
 languageName = "English"
 title = "In English"
 weight = 1
+
+[[languages.en.menu.main]]
+url    = "/"
+name   = "Home"
+weight = 1
+
+[[languages.en.menu.main]]
+url    = "/about-us"
+name   = "About Us"
+weight = 2
+
+[[languages.en.menu.main]]
+url    = "/updates"
+name   = "Updates"
+weight = 3
+
+[[languages.en.menu.main]]
+url    = "/faq/values-of-ywam/"
+name   = "Values of YWAM"
+weight = 4
+
+[[languages.en.menu.main]]
+url	= "/faq/who-is-ywam/"
+name = "Who is YWAM?"
+weight = 5
+
+[[languages.en.menu.main]]
+url	= "/faq/what-we-believe/"
+name = "What We Believe"
+weight = 6
+
 [languages.nl]
 baseURL = "https://www.blevins.nl"
 languageName = "Nederlands"
 title = "In het Nederlands"
 weight = 2
+
+[[languages.nl.menu.main]]
+url    = "/"
+name   = "Home"
+weight = 1
+
+[[languages.nl.menu.main]]
+url    = "/over-ons"
+name   = "Over Ons"
+weight = 2
+
+[[languages.nl.menu.main]]
+url    = "/updates"
+name   = "Updates"
+weight = 3
+
+[[languages.nl.menu.main]]
+url    = "/veelgestelde-vragen/waarden-van-jmeo/"
+name   = "Waarden van JmeO"
+weight = 4
+
+[[languages.nl.menu.main]]
+url	= "/veelgestelde-vragen/wie-is-jmeo/"
+name = "Wie is JmeO?"
+weight = 5
+
+[[languages.nl.menu.main]]
+url	= "/veelgestelde-vragen/wat-wij-geloven/"
+name = "Wat wij geloven"
+weight = 6
+
 [permalinks]
-update = "/:year/:month/:day/:title/"
+update = "/updates/:year/:month/:day/:title/"
 page = "/:title/"

@@ -1,9 +1,9 @@
-{{ if .Params.image }}
+{{ if .image }}
 <style type="text/css">
 #page-banner {
-	background-image: url('{{ .Params.image | safeCSS }}');
-	{{ if .Params.backgroundPosition }}
-	background-position: {{ .Params.backgroundPosition | safeCSS }} !important;
+	background-image: url('{{ .image | safeCSS }}');
+	{{ if .backgroundPosition }}
+	background-position: {{ .backgroundPosition | safeCSS }} !important;
 	{{ end }}
 }
 </style>
@@ -11,7 +11,7 @@
 <!-- page-banner -->
 	<section id="page-banner">
 		<div class="inner">
-			<h2>{{ .Title }}</h2>
-			{{ if eq .Type "update" }}<p>{{ T "date" . }}</p>{{ end }}
+			<h2>{{ .title }}</h2>
+			{{ if and (eq .type "update") (eq .showDate "show") }}<p>{{ T "date" . }}</p>{{ end }}
 		</div>
 	</section>

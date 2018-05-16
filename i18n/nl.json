@@ -6,6 +6,6 @@
     "other": "Meer Lezen"
   },
   "date": {
-    "other": "{{ .Date.Day }} {{ index $.Site.Data.maanden (printf \"%d\" .Date.Month) }} {{ .Date.Year }}"
+    "other": "{{ .date.Day }} {{ index $.Site.Data.maanden (printf \"%d\" .date.Month) }} {{ .date.Year }}"
   }
 }
