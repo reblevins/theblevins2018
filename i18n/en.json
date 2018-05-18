@@ -9,6 +9,6 @@
     "other": "Empowering people<br>to fulfill their calling."
   },
   "date": {
-    "other": "{{ .date.Format \"Mon, Jan 2, 2006\" }}"
+    "other": "{{ .date.Format \"Jan 2, 2006\" }}"
   }
 }

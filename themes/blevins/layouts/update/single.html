@@ -1,7 +1,7 @@
 {{ define "main" }}
 <!-- Main -->
 	<article id="main">
-		{{ partial "page-banner" (dict "title" .Title "date" .Date "image" .Params.image "backgroundPosition" .Params.backgroundPosition "showDate" "show" "type" .Type) }}
+		{{ partial "page-banner" (dict "title" .Title "date" .Date "maanden" $.Site.Data.maanden "image" .Params.image "backgroundPosition" .Params.backgroundPosition "showDate" "show" "type" .Type) }}
 
 		<section class="wrapper style5">
 			<div class="inner">

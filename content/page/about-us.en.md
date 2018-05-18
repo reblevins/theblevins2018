@@ -2,8 +2,7 @@
 title: About Us
 date: 2018-02-26 00:00:00 -0700
 description: 'About Us'
-image: "/img/feb_2018_banner.png"
-
+image: "/img/IMG_20180325_124340-EFFECTS.jpg"
 ---
 We, Rodney and Jolanda Blevins, have been missionaries with Youth With A Mission (YWAM) since 1997. We both did a Discipleship Training School (DTS) at the YWAM base Heidebeek in Heerde, The Netherlands. The DTS is YWAM’s six month training course designed to help you understand God more deeply, live more like Jesus and identify your unique gifts and purpose to use in missions.
 
