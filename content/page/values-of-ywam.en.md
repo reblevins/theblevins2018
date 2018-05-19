@@ -1,6 +1,6 @@
 ---
 title: Values of YWAM
-image: "/img/feb_2018_banner.png"
+image: "/img/worship.jpg"
 url: "/faq/values-of-ywam/"
 ---
 Youth With A Mission (YWAM) affirms the Bible as the authoritative word of God and, with the Holy Spirit’s inspiration, the absolute reference point for every aspect of life and ministry. Based upon God’s word, who He is, and His initiative of salvation, the following responses are strongly emphasized in YWAM:

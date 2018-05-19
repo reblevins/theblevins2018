@@ -1227,6 +1227,9 @@ pre {
 .align-right {
   text-align: right; }
 
+.clearfix {
+  clear: both; }
+
 /* Section/Article */
 section.special, article.special {
   text-align: center; }
@@ -1481,7 +1484,7 @@ input[type="radio"] + label:before {
     color: #76ddff; }
 
 /* Figure */
-figcaption h4 {
+figcaption h4, .caption h4 {
   font-size: 0.8em;
   font-weight: normal;
   text-align: center;

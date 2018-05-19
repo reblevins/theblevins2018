@@ -5,7 +5,6 @@ description: 'A couple weeks ago Jolanda attended the International Member Care 
   (IMCC) at YWAM Orlando '
 image: "/img/feb_2018_banner.png"
 backgroundPosition: "bottom center"
-
 ---
 International Member Care Consultation (IMCC)
 ---------------------------------------------
