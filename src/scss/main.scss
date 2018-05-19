@@ -1421,7 +1421,7 @@
 		}
 
 		.close {
-			background-image: url('/img/close.svg');
+			background-image: url('../img/close.svg');
 			background-position: 4.85em 1em;
 			background-repeat: no-repeat;
 			border: 0;
@@ -1542,7 +1542,7 @@
 							position: relative;
 
 							&:after {
-								background-image: url('/img/bars.svg');
+								background-image: url('../img/bars.svg');
 								background-position: right center;
 								background-repeat: no-repeat;
 								content: '';
@@ -1660,7 +1660,7 @@
 			z-index: 1;
 
 			&:after {
-				background-image: url('/img/arrow.svg');
+				background-image: url('../img/arrow.svg');
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
@@ -1783,7 +1783,7 @@
 	#main {
 		> header {
 			@include padding(12em, 0);
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("/img/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../img/banner.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -1934,7 +1934,7 @@
 
 	body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("/img/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../img/banner.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -1955,7 +1955,7 @@
 
 			#banner,
 			.wrapper.style4 {
-				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("/img/banner.jpg")'));
+				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../img/banner.jpg")'));
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: cover;
