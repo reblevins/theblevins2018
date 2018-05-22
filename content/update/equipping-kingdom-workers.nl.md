@@ -2,8 +2,8 @@
 title: Passie en dankbaarheid
 date: 2017-11-01 00:00:00 -0600
 description: Enkele weken terug kreeg ik de vraag of ik vanuit mijn rol in Member Care Noord Amerika een workshop wilde geven over \"Missionary Care\"
-image: "/img/equipping-kingdom-workers.jpg"
-
+image: "img/equipping-kingdom-workers.jpg"
+list_image: "img/psx_20171121_184422.jpg"
 ---
 Workshop zendelingen zorg
 -------------------------

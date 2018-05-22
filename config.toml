@@ -4,7 +4,7 @@ disableFastRender = true
 staticDir = "static"
 theme = "blevins"
 [languages.en]
-baseURL = "https://focused-bhabha-6e5ce0.netlify.com/en"
+baseURL = "https://focused-bhabha-6e5ce0.netlify.com"
 languageName = "English"
 title = "In English"
 weight = 1

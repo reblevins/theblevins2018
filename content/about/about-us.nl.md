@@ -1,10 +1,12 @@
 ---
 title: Over Ons
 date: 2018-02-26 00:00:00 -0700
-description: 'Over Ons'
-image: "/img/IMG_20180325_124340-EFFECTS.jpg"
+url: "/over-ons"
+description: 'Wij zijn Rodney en Jolanda Blevins en werken sinds 1997 als zendelingen bij Jeugd met een Opdracht (JmeO). Door verschillende zendingsreizen door de jaren heen hebben we mensen in 16 verschillende landen verspreid over vijf continenten beïnvloed! Nu serveren met YWAM in Colorado Springs.'
+image: "img/IMG_20180325_124340-EFFECTS.jpg"
 ---
-Wij zijn Rodney en Jolanda Blevins en werken sinds 1997 als zendelingen bij Jeugd met een Opdracht (JmeO).
+Wij zijn Rodney en Jolanda Blevins en werken sinds 1997 als zendelingen bij Jeugd met een Opdracht (JmeO). Door verschillende zendingsreizen door de jaren heen hebben we mensen in 16 verschillende landen verspreid over vijf continenten beïnvloed! Nu serveren met YWAM in Colorado Springs.
+
 Rodney is in december 1972 in de Amerikaanse staat Arizona, in een zendingsgezin, geboren. Zijn ouders waren zendelingen in Mexico en Guatemala voor de eerste vijf jaar van zijn leven. Zijn ouders zijn nu voorgangers van een Pinkstergemeente in Arizona, VS.
 
 Rodney had al heel vroeg het gevoel dat hij een zendeling zou worden en in 1990, op 17-jarige leeftijd, heeft hij zijn eerste zendingsreis met Jeugd met een Opdracht (JmeO) in Azië gemaakt.

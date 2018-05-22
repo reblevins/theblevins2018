@@ -1,6 +1,8 @@
 ---
 title: Wie is JmeO?
 url: "/veelgestelde-vragen/wie-is-jmeo/"
+description: "Jeugd met een Opdracht (JmeO) omvat duizenden mensen en honderden bedieningen in nagenoeg ieder land op de wereld. Altijd gaat ons hart ernaar uit God (beter) te leren kennen en Hem onder de mensen bekend te maken."
+image: "img/IMG_20180325_124340-EFFECTS.jpg"
 ---
 __Jeugd met een Opdracht (JmeO)__ omvat duizenden mensen en honderden bedieningen in nagenoeg ieder land op de wereld. Altijd gaat ons hart ernaar uit God (beter) te leren kennen en Hem onder de mensen bekend te maken.
 
