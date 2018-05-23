@@ -1,5 +1,5 @@
 ---
-title: Blevins mensen in staat stellen hun roeping te vervullen
+title: Home
 image: "/img/home-jumbotron.jpg"
 banner_heading: De Familie Blevins
 banner_text: Mensen in staat stellen<br>hun roeping te vervullen.

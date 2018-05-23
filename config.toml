@@ -6,7 +6,8 @@ theme = "blevins"
 [languages.en]
 baseURL = "https://focused-bhabha-6e5ce0.netlify.com"
 languageName = "English"
-title = "In English"
+title = "The Blevins"
+tagline = "empowering people to fulfill their calling"
 weight = 1
 
 [[languages.en.menu.main]]
@@ -42,7 +43,8 @@ weight = 6
 [languages.nl]
 baseURL = "https://focused-bhabha-6e5ce0.netlify.com/nl"
 languageName = "Nederlands"
-title = "In het Nederlands"
+title = "Fam Blevins"
+tagline = "mensen in staat stellen hun roeping te vervullen"
 weight = 2
 
 [[languages.nl.menu.main]]
