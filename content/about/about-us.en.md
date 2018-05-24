@@ -1,10 +1,13 @@
 ---
 title: About Us
 date: 2018-02-26 00:00:00 -0700
-description: 'About Us'
+url: "/about-us"
+description: 'We, Rodney and Jolanda Blevins, have been missionaries with YWAM since 1997. Through various missions and ministry trips throughout the years, we have impacted people in 16 different countries spanning five continents! Now serving with YWAM Y360 in Colorado Springs.'
 image: "img/IMG_20180325_124340-EFFECTS.jpg"
 ---
-We, Rodney and Jolanda Blevins, have been missionaries with Youth With A Mission (YWAM) since 1997. We both did a Discipleship Training School (DTS) at the YWAM base Heidebeek in Heerde, The Netherlands. The DTS is YWAM’s six month training course designed to help you understand God more deeply, live more like Jesus and identify your unique gifts and purpose to use in missions.
+We, Rodney and Jolanda Blevins, have been missionaries with Youth With A Mission (YWAM) since 1997. Through various missions and ministry trips throughout the years, we have impacted people in 16 different countries spanning five continents! Now serving with YWAM Y360 in Colorado Springs.
+
+We both did a Discipleship Training School (DTS) at the YWAM base Heidebeek in Heerde, The Netherlands. The DTS is YWAM’s six month training course designed to help you understand God more deeply, live more like Jesus and identify your unique gifts and purpose to use in missions.
 
 In March 2000, we moved to the city of Zenica in Bosnia & Herzegovina where we lived and worked until June 2003. We moved back to The Netherlands in 2003 continue our ministry at the YWAM base Heidebeek.
 

@@ -3,7 +3,8 @@ title: Equipping Kingdom Workers
 date: 2017-11-01 00:00:00 -0600
 description: A few weeks ago, Jolanda, as part of the YWAM North American Member Care
   Network, was asked to give a…
-image: "/img/equipping-kingdom-workers.jpg"
+image: "img/equipping-kingdom-workers.jpg"
+list_image: "img/psx_20171121_184422.jpg"
 ---
 Missionary Care Workshop
 ------------------------

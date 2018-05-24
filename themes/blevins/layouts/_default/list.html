@@ -3,16 +3,30 @@
     <article id="main">
         {{ partial "page-banner" (dict "title" .Title "date" .Date "image" .Params.image "backgroundPosition" .Params.backgroundPosition "type" .Type) }}
         
+        {{ with .Content }}
         <section class="wrapper style5">
             <div class="inner">
-                {{ .Content }}
+                {{ . }}
             </div>
         </section>
+        {{ end }}
+
         <section id="two" class="wrapper alt style2">
             {{ range .Data.Pages }}
             <!-- <section class="spotlight"> -->
                 <a class="spotlight" href="{{ .Permalink }}">
-                    <div class="image"><img src="{{ .Params.image }}" alt="{{ .Title }}" /><div class="image-overlay"></div></div><div class="content">
+                    {{ if isset .Params "list_image" }}
+                    <div class="image">
+                        <img src="{{ .Params.list_image | absLangURL }}" alt="{{ .Title }}" />
+                        <div class="image-overlay"></div>
+                    </div>
+                    {{ else if isset .Params "image" }}
+                    <div class="image">
+                        <img src="{{ .Params.image | absLangURL }}" alt="{{ .Title }}" />
+                        <div class="image-overlay"></div>
+                    </div>
+                    {{ end }}
+                    <div class="content">
                         <h2>{{ .Title }}</h2>
                         <p>{{ .Description }}</p>
                     </div>

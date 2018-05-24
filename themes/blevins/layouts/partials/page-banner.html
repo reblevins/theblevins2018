@@ -1,7 +1,11 @@
 {{ if .image }}
 <style type="text/css">
 #page-banner {
+<<<<<<< HEAD
 	background-image: url('{{ .image | safeCSS | absLangURL }}');
+=======
+	background-image: url('{{ "" | absLangURL }}{{ .image | safeCSS }}');
+>>>>>>> f9d3dc78872cc4784fd83bc02ac2e495f38d8697
 	{{ if .backgroundPosition }}
 	background-position: {{ .backgroundPosition | safeCSS }} !important;
 	{{ end }}

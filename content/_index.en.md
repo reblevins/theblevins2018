@@ -1,5 +1,5 @@
 ---
-title: Blevins &#124; empowering people to fulfill their calling
+title: Home
 banner_heading: The Blevins Family
 banner_text: Empowering people<br>to fulfill their calling.
 section_1:

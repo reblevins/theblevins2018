@@ -1,6 +1,8 @@
 ---
 title: Who is YWAM?
 url: "/faq/who-is-ywam/"
+description: "Youth With A Mission (YWAM) encompasses thousands of people and hundreds of ministries in almost every country of the world. In every case, our passion is to know God and to make Him known."
+image: "img/IMG_20180325_124340-EFFECTS.jpg"
 ---
 __Youth With A Mission (YWAM)__ encompasses thousands of people and hundreds of ministries in almost every country of the world. In every case, our passion is to know God and to make Him known.
 

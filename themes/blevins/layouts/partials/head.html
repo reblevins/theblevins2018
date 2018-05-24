@@ -1,8 +1,8 @@
 <head>
 
-	<title>{{ .Title }} | The Blevins</title>
+	<title>{{ .Title }} | {{ .Site.Params.title }} | {{ .Site.Params.tagline }}</title>
 	<!-- <link rel="stylesheet" href="/css/main.css" /> -->
-	<link rel="stylesheet" href="{{ "css/main.css" | absURL }}" />
+	<link rel="stylesheet" href="{{ "css/main.css" | absLangURL }}" />
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -15,17 +15,17 @@
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
 	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="{{ "img/apple-touch-icon.png" | absURL }}">
-	<link rel="icon" type="image/png" href="{{ "img/favicon-32x32.png" | absURL }}" sizes="32x32">
-	<link rel="icon" type="image/png" href="{{ "img/favicon-16x16.png" | absURL }}" sizes="16x16">
-	<link rel="manifest" href="{{ "manifest.json" | absURL }}">
-	<link rel="mask-icon" href="{{ "img/safari-pinned-tab.svg" | absURL }}" color="#ff4400">
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ "img/apple-touch-icon.png" | absLangURL }}">
+	<link rel="icon" type="image/png" href="{{ "img/favicon-32x32.png" | absLangURL }}" sizes="32x32">
+	<link rel="icon" type="image/png" href="{{ "img/favicon-16x16.png" | absLangURL }}" sizes="16x16">
+	<link rel="manifest" href="{{ "manifest.json" | absLangURL }}">
+	<link rel="mask-icon" href="{{ "img/safari-pinned-tab.svg" | absLangURL }}" color="#ff4400">
 	<meta name="theme-color" content="#fff">
 
 	<!-- Open Graph -->
 	<meta property="og:title" content="The Blevins">
-	<meta property="og:url" content="{{ "" | absURL }}">
-	<meta property="og:image" content="{{ "img/og-image.jpg" | absURL }}">
+	<meta property="og:url" content="{{ "" | absLangURL }}">
+	<meta property="og:image" content="{{ "img/og-image.jpg" | absLangURL }}">
 
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
