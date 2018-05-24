@@ -3,7 +3,7 @@ title: Over Ons
 date: 2018-02-26 00:00:00 -0700
 url: "/over-ons"
 description: 'Wij zijn Rodney en Jolanda Blevins en werken sinds 1997 als zendelingen bij Jeugd met een Opdracht (JmeO). Door verschillende zendingsreizen door de jaren heen hebben we mensen in 16 verschillende landen verspreid over vijf continenten beïnvloed! Nu serveren met YWAM in Colorado Springs.'
-image: "img/IMG_20180325_124340-EFFECTS.jpg"
+image: "img/who-are-we.jpg"
 ---
 Wij zijn Rodney en Jolanda Blevins en werken sinds 1997 als zendelingen bij Jeugd met een Opdracht (JmeO). Door verschillende zendingsreizen door de jaren heen hebben we mensen in 16 verschillende landen verspreid over vijf continenten beïnvloed! Nu serveren met YWAM in Colorado Springs.
 

@@ -3,7 +3,7 @@ title: About Us
 date: 2018-02-26 00:00:00 -0700
 url: "/about-us"
 description: 'We, Rodney and Jolanda Blevins, have been missionaries with YWAM since 1997. Through various missions and ministry trips throughout the years, we have impacted people in 16 different countries spanning five continents! Now serving with YWAM Y360 in Colorado Springs.'
-image: "img/IMG_20180325_124340-EFFECTS.jpg"
+image: "img/who-are-we.jpg"
 ---
 We, Rodney and Jolanda Blevins, have been missionaries with Youth With A Mission (YWAM) since 1997. Through various missions and ministry trips throughout the years, we have impacted people in 16 different countries spanning five continents! Now serving with YWAM Y360 in Colorado Springs.
 

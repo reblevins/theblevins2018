@@ -26,13 +26,13 @@ name   = "Updates"
 weight = 3
 
 [[languages.en.menu.main]]
-url    = "/faq/values-of-ywam/"
-name   = "Values of YWAM"
+url	= "/faq/who-is-ywam/"
+name = "Who is YWAM?"
 weight = 4
 
 [[languages.en.menu.main]]
-url	= "/faq/who-is-ywam/"
-name = "Who is YWAM?"
+url    = "/faq/values-of-ywam/"
+name   = "Values of YWAM"
 weight = 5
 
 [[languages.en.menu.main]]
@@ -63,13 +63,13 @@ name   = "Updates"
 weight = 3
 
 [[languages.nl.menu.main]]
-url    = "/veelgestelde-vragen/waarden-van-jmeo/"
-name   = "Waarden van JmeO"
+url	= "/veelgestelde-vragen/wie-is-jmeo/"
+name = "Wie is JmeO?"
 weight = 4
 
 [[languages.nl.menu.main]]
-url	= "/veelgestelde-vragen/wie-is-jmeo/"
-name = "Wie is JmeO?"
+url    = "/veelgestelde-vragen/waarden-van-jmeo/"
+name   = "Waarden van JmeO"
 weight = 5
 
 [[languages.nl.menu.main]]

@@ -3,7 +3,7 @@ title: Missionaries not just surviving, but thriving!
 date: 2018-02-26 00:00:00 -0700
 description: 'A couple weeks ago Jolanda attended the International Member Care Consultation
   (IMCC) at YWAM Orlando '
-image: "img/feb_2018_banner.png"
+image: "https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/12011a59-c552-4a4f-9e5a-604fa72995c3.jpg"
 backgroundPosition: "bottom center"
 ---
 International Member Care Consultation (IMCC)
