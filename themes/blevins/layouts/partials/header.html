@@ -1,11 +1,11 @@
 <!-- Header -->
 	<header id="header"{{ if .IsHome }} class="alt"{{ end }}>
-		<a class="home-link" href="/">Blevins</a>
+		<a class="home-link" href="{{ "" | absLangURL }}">Blevins</a>
 		{{ if .IsTranslated }}
 		<ul class="languages">
 		    {{ range .Translations }}
 		    <li>
-		        <a href="{{ .Permalink }}"><img src="{{ "" | absURL }}/img/{{.Lang}}.png"></a>
+		        <a href="{{ .Permalink }}"><img src="{{ "" | absLangURL }}img/{{.Lang}}.png"></a>
 		    </li>
 		    {{ end}}
 		</ul>

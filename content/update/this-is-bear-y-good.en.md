@@ -3,7 +3,7 @@ title: This is bear-y good!
 date: 2017-09-04 00:00:00 -0600
 description: Ever been awakened in the middle of the night by a bear trying to get
   into your trash can, but…
-image: "/img/website-september-2017-banner.png"
+image: "img/website-september-2017-banner.png"
 
 ---
 Ever been awakened in the middle of the night by a bear trying to get into your trash can, but just couldn't get in? This has happened to us a couple of times, but the most recent time, we finally got to see the bear live and in person. Thankfully, we have a chain on our trash can that kept him (her?) out, and once he saw us peeking out of the window at him, he ran away, but not before we got a look at him.
