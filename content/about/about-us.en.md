@@ -53,7 +53,9 @@ Jolanda continues to work with YWAM Y360 since 2013 in various roles. However, i
 
 In January 2016, she participated in the Missionary Care Foundations Course at YWAM Chico, CA where she met together with several other YWAMers from Colorado and they formed the Colorado Missionary Care team.
 
-In April
+In April, Jolanda attended the International Member Care Consultation (IMCC) at YWAM Orlando, FL. Together with YWAM Member Care workers from the Caribbean, East and South East Asia, Europe, North America, South America and Africa they came together to reconnect, receive teaching, and do a lot of networking. It was a great opportunity to learn about the different training models/courses and internships for member care workers. They received teaching on debriefing, caring for those in long-term crisis, those experiencing secondary trauma, compassion fatigue, and prevention care.
+
+{{< figure class="image fit" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/12011a59-c552-4a4f-9e5a-604fa72995c3.jpg" title="Jolanda at the International Member Care Consultation (IMCC) at YWAM Orlando, FL" >}}
 
 Lisa and Sarah
 --------------
