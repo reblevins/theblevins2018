@@ -1,7 +1,7 @@
 {{ if .image }}
 <style type="text/css">
 #page-banner {
-	background-image: url('{{ "" | absLangURL }}{{ .image | safeCSS }}');
+	background-image: url('{{ "" | absLangURL }}/{{ .image | safeCSS }}');
 	{{ if .backgroundPosition }}
 	background-position: {{ .backgroundPosition | safeCSS }} !important;
 	{{ end }}

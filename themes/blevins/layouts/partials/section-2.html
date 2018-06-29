@@ -3,7 +3,7 @@
 		{{ range where .Site.Pages "Section" "about" }}
             {{ if not .Params.skip }}
             <a class="spotlight" href="{{ .Permalink }}">
-                <div class="image"><img src="{{ "" | absLangURL}}{{ .Params.image }}" alt="{{ .Title }}" /><div class="image-overlay"></div></div><div class="content">
+                <div class="image"><img src="{{ "" | absLangURL}}/{{ .Params.image }}" alt="{{ .Title }}" /><div class="image-overlay"></div></div><div class="content">
                     <h2>{{ .Title }}</h2>
                     <p>{{ .Description }}</p>
                 </div>
