@@ -21,24 +21,29 @@ name   = "About Us"
 weight = 2
 
 [[languages.en.menu.main]]
+url    = "/ministry-partners"
+name   = "Ministry Partners"
+weight = 3
+
+[[languages.en.menu.main]]
 url    = "/updates"
 name   = "Updates"
-weight = 3
+weight = 4
 
 [[languages.en.menu.main]]
 url	= "/faq/who-is-ywam/"
 name = "Who is YWAM?"
-weight = 4
+weight = 5
 
 [[languages.en.menu.main]]
 url    = "/faq/values-of-ywam/"
 name   = "Values of YWAM"
-weight = 5
+weight = 6
 
 [[languages.en.menu.main]]
 url	= "/faq/what-we-believe/"
 name = "What We Believe"
-weight = 6
+weight = 7
 
 [languages.nl]
 baseURL = "https://focused-bhabha-6e5ce0.netlify.com/nl"
@@ -54,28 +59,33 @@ weight = 1
 
 [[languages.nl.menu.main]]
 url    = "/over-ons"
-name   = "Over Ons"
+name   = "Over ons"
 weight = 2
+
+[[languages.nl.menu.main]]
+url    = "/gezocht-deelgenoten"
+name   = "Gezocht deelgenoten"
+weight = 3
 
 [[languages.nl.menu.main]]
 url    = "/updates"
 name   = "Updates"
-weight = 3
+weight = 4
 
 [[languages.nl.menu.main]]
 url	= "/veelgestelde-vragen/wie-is-jmeo/"
 name = "Wie is JmeO?"
-weight = 4
+weight = 5
 
 [[languages.nl.menu.main]]
 url    = "/veelgestelde-vragen/waarden-van-jmeo/"
 name   = "Waarden van JmeO"
-weight = 5
+weight = 6
 
 [[languages.nl.menu.main]]
 url	= "/veelgestelde-vragen/wat-wij-geloven/"
 name = "Wat wij geloven"
-weight = 6
+weight = 7
 
 [permalinks]
 update = "/updates/:year/:month/:day/:title/"
