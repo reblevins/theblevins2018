@@ -32,3 +32,11 @@ Tijdens onze DTS hebben we elkaar ontmoet en wisten we al heel snel dat we samen
 Maart 2000 zijn we verhuisd naar Zenica, een moslimstad in Bosnië-Herzegovina, waar we gewoond en gewerkt hebben (gemeentestichting) tot juni 2003. Daarna hebben wij onze bediening op Heidebeek weer voortgezet.
 
 In augustus 2003 is onze dochter Lisa geboren en in december 2006 onze dochter Sarah!
+
+In januari 2013 zijn wij als gezin naar Colorado Springs, CO, VS verhuisd om zich bij JmeO Y360 aan te sluiten.
+
+Van februari 2013 tot januari 2016 werkte Rodney samen met YWAM Y360 in de online winkel Crown Ministries International (crownmin.org) voor het verzenden van christelijk lesmateriaal (boeken en dvd's) over de hele wereld. Hij was ook verantwoordelijk voor de webgerelateerde projecten, hielp zendelingen en ministeries (en zelfs sommige lokale bedrijven) om hun stem op internet te definiëren en hun boodschap zo effectief mogelijk via het World Wide Web te communiceren.
+
+Jolanda heeft met het Y360 Life and Growth Team samengewerkt, evenals het ontvangen van bedieningen die onze faciliteiten gebruiken voor gelegenheden zoals bestuursvergaderingen, workshops, enz. Ze beantwoordt ook de vele e-mails en voicemails die binnenkomen bij het aanvragen van informatie.
+
+Business IS Missions!
