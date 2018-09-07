@@ -1,9 +1,13 @@
 ---
 title: About Us
-date: 2018-02-26 00:00:00 -0700
+date: 2018-02-26 07:00:00 +0000
 url: "/about-us"
-description: 'We, Rodney and Jolanda Blevins, have been missionaries with YWAM since 1997. Through various missions and ministry trips throughout the years, we have impacted people in 16 different countries spanning five continents! Now serving with YWAM Y360 in Colorado Springs.'
-image: "img/who-are-we.jpg"
+description: We, Rodney and Jolanda Blevins, have been missionaries with YWAM since
+  1997. Through various missions and ministry trips throughout the years, we have
+  impacted people in 16 different countries spanning five continents! Now serving
+  with YWAM Y360 in Colorado Springs.
+image: img/who-are-we.jpg
+
 ---
 We, Rodney and Jolanda Blevins, have been missionaries with Youth With A Mission (YWAM) since 1997. Through various missions and ministry trips throughout the years, we have impacted people in 16 different countries spanning five continents!
 
@@ -33,8 +37,7 @@ From February 2013 until January 2016, Rodney worked with YWAM Y360 in the onlin
 
 Jolanda has worked with the Y360 Life and Growth Team as well as hosting ministries who make use of our facilities for occasions such as board meetings, workshops, etc. She also answers the many emails and voicemails that come in requesting information.
 
-Business IS Missions!
----------------------
+## Business IS Missions!
 
 In January 2016, God opened up a door to work fulltime with a local Web Design agency in Colorado Springs called [zipperSNAP](https://zippersnap.com/) led by YWAMers Bill and Karma Duggin. He is doing the same work as he did with Y360, but now he is getting paid for it, plus he has the opportunity to once again setup the websites of international minisries which has been his heart ever since his days as the leader of EuroCom.
 
@@ -46,8 +49,7 @@ It is doing business in a Kingdom way with a focus on holistic transformation wi
 
 Rodney and the zipperSNAP team are privileged to be a small part of "Business as Missions" bringing hope and a Kingdom perspective in the world, in developing countries, or closer to home.
 
-Missionary Care
----------------
+## Missionary Care
 
 Jolanda continues to work with YWAM Y360 since 2013 in various roles. However, in the last few years, she has gotten more and more opportunities to develop the ministry she worked with at YWAM Heidebeek, namely, Missionary Care.
 
@@ -57,9 +59,10 @@ In April, Jolanda attended the International Member Care Consultation (IMCC) at 
 
 {{< figure class="image fit" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/12011a59-c552-4a4f-9e5a-604fa72995c3.jpg" title="Jolanda at the International Member Care Consultation (IMCC) at YWAM Orlando, FL" >}}
 
-Lisa and Sarah
---------------
+## Lisa and Sarah
 
 Since February 2013, Lisa and Sarah attend a local public school. They enjoy school and have adapted well.
 
 In the Fall of 2018, both girls experienced a major change: Lisa started High School and Sarah started Middle School.
+
+Test change.

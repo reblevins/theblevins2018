@@ -1,6 +1,5 @@
 ---
-pages:
-- about-us.en.md
+label: default
 hide_body: false
 is_partial: false
 fields:
