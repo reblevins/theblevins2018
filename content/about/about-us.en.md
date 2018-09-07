@@ -39,7 +39,7 @@ Jolanda has worked with the Y360 Life and Growth Team as well as hosting ministr
 
 ## Business IS Missions!
 
-In January 2016, God opened up a door to work fulltime with a local Web Design agency in Colorado Springs called [zipperSNAP](https://zippersnap.com/) led by YWAMers Bill and Karma Duggin. He is doing the same work as he did with Y360, but now he is getting paid for it, plus he has the opportunity to once again setup the websites of international minisries which has been his heart ever since his days as the leader of EuroCom.
+In January 2017, God opened up a door for Rodney to work full-time with a local Web Design agency in Colorado Springs called [zipperSNAP](https://zippersnap.com/) led by YWAMers Bill and Karma Duggin. He is doing the same work as he did with Y360, but now he is getting paid for it, plus he has the opportunity to once again setup the websites of international ministries which has been his heart ever since his days as the leader of EuroCom.
 
 {{< figure class="image fit" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/f3750cb3-7885-4398-b76a-a09bb1f70e67.jpg" title="Rodney and the zipperSNAP team (2016)." >}}
 
@@ -51,11 +51,7 @@ Rodney and the zipperSNAP team are privileged to be a small part of "Business as
 
 ## Missionary Care
 
-Jolanda continues to work with YWAM Y360 since 2013 in various roles. However, in the last few years, she has gotten more and more opportunities to develop the ministry she worked with at YWAM Heidebeek, namely, Missionary Care.
-
-In January 2016, she participated in the Missionary Care Foundations Course at YWAM Chico, CA where she met together with several other YWAMers from Colorado and they formed the Colorado Missionary Care team.
-
-In April, Jolanda attended the International Member Care Consultation (IMCC) at YWAM Orlando, FL. Together with YWAM Member Care workers from the Caribbean, East and South East Asia, Europe, North America, South America and Africa they came together to reconnect, receive teaching, and do a lot of networking. It was a great opportunity to learn about the different training models/courses and internships for member care workers. They received teaching on debriefing, caring for those in long-term crisis, those experiencing secondary trauma, compassion fatigue, and prevention care.
+A debriefing is a relational process in which the realities of the past and their impact are expressed and understood for the purpose of release, renewal, and moving forward. Effective personal debriefing is, essentially, helping a person tell their story in an environment where they feel fully heard and understood. We, as debriefers use a timeline, also known as a "life path", to help them tell their story. During this retreat in Orlando, together with a male colleague, Jolanda was the personal debriefer of two couples.
 
 {{< figure class="image fit" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/12011a59-c552-4a4f-9e5a-604fa72995c3.jpg" title="Jolanda at the International Member Care Consultation (IMCC) at YWAM Orlando, FL" >}}
 
@@ -64,5 +60,3 @@ In April, Jolanda attended the International Member Care Consultation (IMCC) at 
 Since February 2013, Lisa and Sarah attend a local public school. They enjoy school and have adapted well.
 
 In the Fall of 2018, both girls experienced a major change: Lisa started High School and Sarah started Middle School.
-
-Test change.
