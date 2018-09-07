@@ -995,6 +995,8 @@
 				}
 			}
 
+			a { border-bottom: none; }
+
 			&:before {
 				display: block;
 				color: _palette(accent2, bg);
@@ -1046,6 +1048,7 @@
 	}
 
 /* Spotlight */
+	a.spotlight { border-bottom: none; }
 
 	.spotlight {
 		@include vendor('align-items', 'center');

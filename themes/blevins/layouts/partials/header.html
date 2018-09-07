@@ -5,7 +5,7 @@
 		<ul class="languages">
 		    {{ range .Translations }}
 		    <li>
-		        <a href="{{ .Permalink }}"><img src="{{ "" | absLangURL }}img/{{.Lang}}.png"></a>
+		        <a href="{{ .Permalink }}"><img src="{{ "" | absLangURL }}/img/{{.Lang}}.png"></a>
 		    </li>
 		    {{ end}}
 		</ul>
