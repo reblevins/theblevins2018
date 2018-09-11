@@ -53,6 +53,17 @@ Rodney and the zipperSNAP team are privileged to be a small part of "Business as
 
 A debriefing is a relational process in which the realities of the past and their impact are expressed and understood for the purpose of release, renewal, and moving forward. Effective personal debriefing is, essentially, helping a person tell their story in an environment where they feel fully heard and understood. We, as debriefers use a timeline, also known as a "life path", to help them tell their story. During this retreat in Orlando, together with a male colleague, Jolanda was the personal debriefer of two couples.
 
+From her experience in Pastoral Care and Missionary Care at YWAM Heidebeek in the Netherlands, Jolanda has since January 2016 become part of the Member Care team for North America.
+
+After further training, Jolanda is now also able to walk alongside people / missionaries who are preparing for missions or who have years of experience in the mission field.
+
+It is Jolanda's desire to walk alongside these workers, preparing them to do their job with resilience either before they go, while they're on the field or while on furlough. And when the do decide to return for good to their home country, to be able to finish strong. So that missionaries not only "survive", but can successfully and effectively continue to exercise their ministry with resilience. We all know what it's like to have a bad experience, crisis, symptoms of fatigue, financial worries and then to feel the responsibility to continue doing the work that is expected of us. Now, how would you feel if you were experiencing all of this in a foreign country, culture and language and still trying to find a good balance? That is why Member Care wants to assist with good preparation, supervision, guidance and debriefing / coaching.
+
+Jolanda is a personal debriefer and since the beginning of 2018 has also been involved with "Radiant Life Retreats" for missionaries (families). This retreat is held approximately 4 times a year and lasts 6-8 days.
+A personal debriefing with missionaries involves taking a look at events on the field that had a major impact on them. They then put this all down on a  "timeline" (also known as a life path) to help them recount and process this.
+
+This process brings out not only the low points but also the victories. It helps set them free from past experiences, renew their thinking and dare to believe that their ministry can continue. This effective personal debriefing helps a missionary tell his story in a familiar environment where he feels completely heard and understood.
+
 {{< figure class="image fit" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/12011a59-c552-4a4f-9e5a-604fa72995c3.jpg" title="Jolanda at the International Member Care Consultation (IMCC) at YWAM Orlando, FL" >}}
 
 ## Lisa and Sarah
