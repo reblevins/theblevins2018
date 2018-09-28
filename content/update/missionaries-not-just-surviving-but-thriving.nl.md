@@ -3,7 +3,7 @@ title: Van Hollandse directheid tot boerenkool!
 date: 2018-02-26 00:00:00 -0700
 description: 'Ik zeg het zo vaak… we zijn hier nu 5 jaar en je zou denken dat we al
   aardig “Amerikaans” zijn geworden. Ja en Nee! '
-image: "https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/12011a59-c552-4a4f-9e5a-604fa72995c3.jpg"
+image: "img/missionaries-not-just-surviving-but-thriving.jpg"
 backgroundPosition: "bottom center"
 
 ---

@@ -2,7 +2,7 @@
 title: “Ik voelde mij volledig gehoord en begrepen”
 date: 2018-05-17 00:00:00 -0600
 description: "Een deelnemer vertelde mij na afloop van het Debriefing Retreat: Door al het afscheid, het verlies en de veranderingen heen..."
-image: "https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/8ee29777-3e04-434d-be3a-4aa5f451c65e.jpeg"
+image: "img/i-felt-completely-heard-and-understood.jpg"
 ---
 {{< img class="image right" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/9ec7e020-0a59-4f15-8317-af23ad78f457.jpeg" >}}
 Een deelnemer vertelde mij na afloop van het Debriefing Retreat: _"Door al het afscheid, het verlies en de veranderingen heen…. zie en begrijp ik nu waarom ik zo dacht en handelde en wat mij weerhield om “weer" echte vrijheid en hoop te mogen voelen.

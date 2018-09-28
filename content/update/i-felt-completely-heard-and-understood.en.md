@@ -2,7 +2,7 @@
 title: "\"I felt completely heard and understood\""
 date: 2018-05-17 00:00:00 -0600
 description: "The last week of April and the first week of May, seven participants came for the \"Radiant Life\" Debriefing retreat..."
-image: "https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/8ee29777-3e04-434d-be3a-4aa5f451c65e.jpeg"
+image: "img/i-felt-completely-heard-and-understood.jpg"
 ---
 {{< img class="image right" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/9ec7e020-0a59-4f15-8317-af23ad78f457.jpeg" >}}
 The last week of April and the first week of May, seven participants came for the "Radiant Life" Debriefing retreat for missionary families, couples and singles in Orlando. This was a period of rest, refreshment and renewal for these missionaries. Here are just a couple of powerful testimonies from participants in the Radiant Life debriefing retreat in Orlando, Florida:

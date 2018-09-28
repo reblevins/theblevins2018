@@ -3,139 +3,234 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.blevins.nl/over-ons/</loc>
-    <lastmod>2018-02-26T00:00:00-07:00</lastmod>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/gezocht-deelgenoten/</loc>
+    <lastmod>2018-06-29T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.blevins.nl/about-us/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/ministry-partners/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://www.blevins.nl/over-ons/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/gezocht-deelgenoten/"
                 />
   </url>
   
   <url>
-    <loc>https://www.blevins.nl/2018/02/26/van-hollandse-directheid-tot-boerenkool/</loc>
-    <lastmod>2018-02-26T00:00:00-07:00</lastmod>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/updates/2018/05/17/ik-voelde-mij-volledig-gehoord-en-begrepen/</loc>
+    <lastmod>2018-05-17T00:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.blevins.nl/2018/02/26/missionaries-not-just-surviving-but-thriving/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/updates/2018/05/17/i-felt-completely-heard-and-understood/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://www.blevins.nl/2018/02/26/van-hollandse-directheid-tot-boerenkool/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/updates/2018/05/17/ik-voelde-mij-volledig-gehoord-en-begrepen/"
                 />
   </url>
   
   <url>
-    <loc>https://www.blevins.nl/2017/11/01/equipping-kingdom-workers/</loc>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/updates/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/updates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/updates/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/over-ons/</loc>
+    <lastmod>2018-02-26T00:00:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/about-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/over-ons/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/updates/2018/02/26/van-hollandse-directheid-tot-boerenkool/</loc>
+    <lastmod>2018-02-26T00:00:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/updates/2018/02/26/missionaries-not-just-surviving-but-thriving/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/updates/2018/02/26/van-hollandse-directheid-tot-boerenkool/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/updates/2017/11/01/passie-en-dankbaarheid/</loc>
     <lastmod>2017-11-01T00:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.blevins.nl/2017/11/01/equipping-kingdom-workers/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/updates/2017/11/01/equipping-kingdom-workers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://www.blevins.nl/2017/11/01/equipping-kingdom-workers/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/updates/2017/11/01/passie-en-dankbaarheid/"
                 />
   </url>
   
   <url>
-    <loc>https://www.blevins.nl/2017/09/04/beer-op-bezoek/</loc>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/updates/2017/09/04/beer-op-bezoek/</loc>
     <lastmod>2017-09-04T00:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.blevins.nl/2017/09/04/this-is-bear-y-good/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/updates/2017/09/04/this-is-bear-y-good/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://www.blevins.nl/2017/09/04/beer-op-bezoek/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/updates/2017/09/04/beer-op-bezoek/"
                 />
   </url>
   
   <url>
-    <loc>https://www.blevins.nl/</loc>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/updates/2017/05/01/we-komen-eraan/</loc>
+    <lastmod>2017-05-01T21:55:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/about/</loc>
     <lastmod>2018-02-26T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.blevins.nl/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://www.blevins.nl/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/about/"
                 />
   </url>
   
   <url>
-    <loc>https://www.blevins.nl/categories/</loc>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/updates/1/01/01/</loc>
+  </url>
+  
+  <url>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.blevins.nl/categories/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://www.blevins.nl/categories/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.blevins.nl/page/</loc>
-    <lastmod>2018-02-26T00:00:00-07:00</lastmod>
-    <priority>0</priority>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/veelgestelde-vragen/waarden-van-jmeo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.blevins.nl/page/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/faq/values-of-ywam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://www.blevins.nl/page/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/veelgestelde-vragen/waarden-van-jmeo/"
                 />
   </url>
   
   <url>
-    <loc>https://www.blevins.nl/tags/</loc>
-    <priority>0</priority>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/</loc>
+    <lastmod>2018-06-29T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.blevins.nl/tags/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://www.blevins.nl/tags/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/"
                 />
   </url>
   
   <url>
-    <loc>https://www.blevins.nl/update/</loc>
-    <lastmod>2018-02-26T00:00:00-07:00</lastmod>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/page/</loc>
+    <lastmod>2018-06-29T00:00:00-07:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://en.blevins.nl/update/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://www.blevins.nl/update/"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/veelgestelde-vragen/wat-wij-geloven/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/faq/what-we-believe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/veelgestelde-vragen/wat-wij-geloven/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://focused-bhabha-6e5ce0.netlify.com/nl/veelgestelde-vragen/wie-is-jmeo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://focused-bhabha-6e5ce0.netlify.com/en/faq/who-is-ywam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://focused-bhabha-6e5ce0.netlify.com/nl/veelgestelde-vragen/wie-is-jmeo/"
                 />
   </url>
   

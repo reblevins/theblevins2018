@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fam Blevins</title>
+    <link>https://focused-bhabha-6e5ce0.netlify.com/nl/about/</link>
+    <description>Recent content on Fam Blevins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://focused-bhabha-6e5ce0.netlify.com/nl/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Over Ons</title>
+      <link>https://focused-bhabha-6e5ce0.netlify.com/nl/over-ons/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://focused-bhabha-6e5ce0.netlify.com/nl/over-ons/</guid>
+      <description>Wij zijn Rodney en Jolanda Blevins en werken sinds 1997 als zendelingen bij Jeugd met een Opdracht (JmeO). Door verschillende zendingsreizen door de jaren heen hebben we mensen in 16 verschillende landen verspreid over vijf continenten beïnvloed! Nu serveren met YWAM in Colorado Springs.
+Rodney is in december 1972 in de Amerikaanse staat Arizona, in een zendingsgezin, geboren. Zijn ouders waren zendelingen in Mexico en Guatemala voor de eerste vijf jaar van zijn leven.</description>
+    </item>
+    
+    <item>
+      <title>Wie is JmeO?</title>
+      <link>https://focused-bhabha-6e5ce0.netlify.com/nl/veelgestelde-vragen/wie-is-jmeo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-bhabha-6e5ce0.netlify.com/nl/veelgestelde-vragen/wie-is-jmeo/</guid>
+      <description>Jeugd met een Opdracht (JmeO) omvat duizenden mensen en honderden bedieningen in nagenoeg ieder land op de wereld. Altijd gaat ons hart ernaar uit God (beter) te leren kennen en Hem onder de mensen bekend te maken.
+Wij zijn een mengeling van mensen uit de hele wereld – iets preciezer: uit meer dan 150 landen. In veel van onze vestigingen werken mensen uit een bonte verzameling van deze landen samen. We komen uit een veelvoud van verschillende kerken en spreken honderden talen.</description>
+    </item>
+    
+  </channel>
+</rss>
