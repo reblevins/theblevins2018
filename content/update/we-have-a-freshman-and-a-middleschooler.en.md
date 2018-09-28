@@ -2,8 +2,9 @@
 title: "Help! We have a freshman and a middle-schooler!"
 date: 2018-09-27 00:00:00 -0600
 description: "Onze meiden Lisa en Sarah zijn allebei op een nieuwe school begonnen. Hier lopen de schooljaren iets anders dan in Nederland."
-image: "img/we-have-a-freshman-and-a-middle-schooler.png"
-list_image: "img/we-have-a-freshman-and-a-middle-schooler-list.png"
+image: "img/we-have-a-freshman-and-a-middleschooler-list.png"
+list_image: "img/we-have-a-freshman-and-a-middleschooler-list.png"
+backgroundPosition: "top center"
 ---
 22-year missions adventure
 --------------------------
