@@ -9,7 +9,7 @@ backgroundPosition: "top center"
 22-year missions adventure
 --------------------------
 
-This month marks 22 years ago that we went into missions and started our Youth with an Mission adventure.
+This month marks 22 years ago that we went into missions and started our Youth with a Mission adventure.
 
 An incredible missionary adventure with God, an adventure in faith and trust, an adventure across borders, an adventure in being dependent on donations, an adventure in wonderful provision, blessings and testimonies.
 *22 years of missions made possible, in part, by you!*
@@ -47,10 +47,6 @@ Since February, Jolanda is officially a debriefer with the debriefing team [Exce
 The leaders, [Kevin en Sue Prins](http://excellingleaders.org/our-story/), live in Michigan and Jolanda has seen them these last couple of years at "Missionary Care" consultations and courses here in the US. During the last training in February, they asked her and she agreed to join their team. It means that she will join them three or four times a year as a debriefer in a Debriefing Retreat for missionaries.
 
 A debriefing during a "[Radiant Life Retreat](http://excellingleaders.org/retreat/)" is a relational process in which the realities of the past and their impact are expressed and understood for the purpose of release, renewal, and moving forward. Effective personal debriefing is, essentially, helping a person tell their story in an environment where they feel fully heard and understood. We, as debriefers use a timeline, also known as a "life path", to help them tell their story.
-
-From the Excelling Leaders website: Our Radiant Life Retreat (RLR) is a small group debrief and wellness experience for individuals, couples, or families offered multiple times a year. The Radiant Life Retreat is specifically designed for those who have lived cross-culturally for a year or more. It is a time of focused reflection and connection with the Father, taking time to hear His perspective on the past and His guidance for the future.
-
-During our time together we will focus on your personal story. During the first part of the retreat we will help you walk through the joys, losses, and transitions in the power of the cross, and then the second part of the retreat you will be given tools to re-engage the calling that the Father has placed on your heart.
 
 Thankfully, Jolanda doesn't always have to travel for her work. Last week, she was able to debrief to YWAM-ers from Denver. This couple works with YWAM as "mission builders" in countries like Guatemala and Costa Rica. Curious what mission builders do? [www.missionbuilders.org](https://www.missionbuilders.org/)
 

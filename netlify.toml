@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "https://blevins.netlify.com/*"
+  to = "https://zending.us/:splat"
+  status = 301
