@@ -7,3 +7,21 @@
 	from = "https://focused-bhabha-6e5ce0.netlify.com/*"
 	to = "https://zending.us/:splat"
 	status = 301
+
+[[redirects]]
+	from = "https://zending.us"
+	to = "https://zending.us/en"
+	status = 200
+	conditions = {Language = ["en"]}
+
+[[redirects]]
+	from = "https://zending.us"
+	to = "https://zending.us/nl"
+	status = 200
+	conditions = {Language = ["nl"]}
+
+[[redirects]]
+	from = "https://zending.us"
+	to = "https://zending.us/nl"
+	status = 200
+	conditions = {Language = ["nl-be"]}
