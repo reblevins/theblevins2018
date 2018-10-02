@@ -21,7 +21,7 @@ Haar grootvader, ds. Karelse, is daarna van 1946 t/m 1968 voorganger geweest van
 
 Na haar opleiding voor Activiteiten begeleidster heeft zij bijna vijf jaar gewerkt bij de Activiteiten dienst van het Psychiatrisch Ziekenhuis Emergis.
 
-{{< img class="image right" src="http://www.blevins.nl/wp-content/uploads/2009/01/Image-2-199x300.jpg" title="Ons avontuur in de zending begon hier (14 juni 1997)" >}}
+{{< img class="image right" src="/nl/img/wedding-pic.jpg" title="Ons avontuur in de zending begon hier (14 juni 1997)" >}}
 
 In deze periode toerde zij verschillende keren met het Internationale koor "The Continental Singers". Hierdoor heeft ze verschillende keren Albanië bezocht en verschillende zendingsorganisaties ontmoet.
 
