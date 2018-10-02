@@ -4,7 +4,7 @@ disableFastRender = true
 staticDir = "static"
 theme = "blevins"
 [languages.en]
-baseURL = "https://focused-bhabha-6e5ce0.netlify.com/en"
+baseURL = "https://zending.us/en"
 languageName = "English"
 title = "The Blevins"
 tagline = "empowering people to fulfill their calling"
@@ -46,7 +46,7 @@ name = "What We Believe"
 weight = 7
 
 [languages.nl]
-baseURL = "https://focused-bhabha-6e5ce0.netlify.com/nl"
+baseURL = "https://zending.us/nl"
 languageName = "Nederlands"
 title = "Fam Blevins"
 tagline = "mensen in staat stellen hun roeping te vervullen"
