@@ -1,7 +1,7 @@
 ---
 title: Debriefing in Pennsylvania
-date: 2019-02-03 00:00:00 -0600
-description: Enkele weken terug kreeg ik de vraag of ik vanuit mijn rol in Member Care Noord Amerika een workshop wilde geven over "Missionary Care"
+date: 2019-02-09 00:00:00 -0600
+description: Wat leuk te zien en te horen van jullie sneeuw avonturen in Nederland! Gezellige foto's zagen we voorbij komen.
 image: "img/debriefing-in-pennsylvania.png"
 list_image: "img/debriefing-in-pennsylvania-list.png"
 ---
