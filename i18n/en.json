@@ -10,5 +10,8 @@
   },
   "date": {
     "other": "{{ .date.Format \"Jan 2, 2006\" }}"
+  },
+  "date-list": {
+    "other": "{{ .Date.Format \"Jan 2, 2006\" }}"
   }
 }

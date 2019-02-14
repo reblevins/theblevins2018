@@ -1,11 +1,14 @@
 {
   "learn_more": {
-    "other": "Meer Weten"
+		"other": "Meer Weten"
   },
   "read_more": {
-    "other": "Meer Lezen"
+		"other": "Meer Lezen"
   },
   "date": {
-    "other": "{{ .date.Day }} {{ index .maanden (printf \"%d\" .date.Month) }} {{ .date.Year }}"
+	    "other": "{{ .date.Day }} {{ index .maanden (printf \"%d\" .date.Month) }} {{ .date.Year }}"
+  },
+  "date-list": {
+  	    "other": "{{ .Date.Day }} {{ index $.Site.Data.maanden (printf \"%d\" .Date.Month) }} {{ .Date.Year }}"
   }
 }
