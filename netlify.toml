@@ -11,17 +11,17 @@
 [[redirects]]
 	from = "https://zending.us"
 	to = "https://zending.us/en"
-	status = 200
+	status = 302
 	conditions = {Language = ["en"]}
 
 [[redirects]]
 	from = "https://zending.us"
 	to = "https://zending.us/nl"
-	status = 200
+	status = 302
 	conditions = {Language = ["nl"]}
 
 [[redirects]]
 	from = "https://zending.us"
 	to = "https://zending.us/nl"
-	status = 200
+	status = 302
 	conditions = {Language = ["nl-be"]}
