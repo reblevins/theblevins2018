@@ -62,4 +62,10 @@ Een tijd van re-connecten, veel bakkies koffie of "gewoon" fietsen naar de winke
 
 Om onze vliegreis mogelijk te maken zijn wij een GoFundMe gestart. Via deze "sponsor actie" hopen we dat jullie ons willen helpen naar Nederland over te komen. We hebben intussen de 1e ticket binnen! Hoera! Nog twee tickets van €700 p.p en onze reisverzekering van €110 te gaan! Wie helpt mee.
 
-[Ga naar de GoFundMe pagina](https://blevins.us1.list-manage.com/track/click?u=6228a0cf79ca61e3c578c811a&id=a12aabd27e&e=b248fe2654)
+UPDATE: We hebben onz GoFundMe doel bereikt. Een super dank je wel aan jullie die gegeven hebben.
+
+<div class="gallery">
+    {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/f807ac4c-52a3-4410-bfce-f7854c2893b5.jpg" title="Sneeuwmonster!" >}}
+
+    {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/7a6c5e17-af33-4a71-bdfb-42d6fb0c947b.jpeg" title="Onze twee 'beauties'!" >}}
+</div>
