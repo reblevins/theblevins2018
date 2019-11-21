@@ -12,45 +12,21 @@
 	from = "https://zending.us"
 	to = "https://zending.us/en"
 	status = 302
-	conditions = {Language = ["en"]}
 
 [[redirects]]
-	from = "https://zending.us"
-	to = "https://zending.us/en"
-	status = 302
-	conditions = {Language = ["en-us"]}
-
-[[redirects]]
-	from = "https://zending.us"
-	to = "https://zending.us/en"
-	status = 302
-	conditions = {Language = ["en-us"], Country = ["US"]}
-
-[[redirects]]
-	from = "https://zending.us"
-	to = "https://zending.us/en"
-	status = 302
-	conditions = {Language = ["en"], Country = ["US"]}
-
-[[redirects]]
-	from = "https://zending.us"
+	from = "https://zending.us/en"
 	to = "https://zending.us/nl"
 	status = 302
 	conditions = {Language = ["nl"]}
 
 [[redirects]]
-	from = "https://zending.us"
+	from = "https://zending.us/en"
 	to = "https://zending.us/nl"
 	status = 302
 	conditions = {Language = ["nl"], Country = ["NL"]}
 
 [[redirects]]
-	from = "https://zending.us"
+	from = "https://zending.us/en"
 	to = "https://zending.us/nl"
 	status = 302
 	conditions = {Language = ["nl-be"]}
-
-[[redirects]]
-	from = "https://zending.us"
-	to = "https://zending.us/en"
-	status = 302
