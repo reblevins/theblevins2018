@@ -18,6 +18,18 @@
 	from = "https://zending.us"
 	to = "https://zending.us/en"
 	status = 302
+	conditions = {Language = ["en-us"]}
+
+[[redirects]]
+	from = "https://zending.us"
+	to = "https://zending.us/en"
+	status = 302
+	conditions = {Language = ["en-us"], Country = ["US"]}
+
+[[redirects]]
+	from = "https://zending.us"
+	to = "https://zending.us/en"
+	status = 302
 	conditions = {Language = ["en"], Country = ["US"]}
 
 [[redirects]]
