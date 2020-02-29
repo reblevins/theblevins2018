@@ -11,16 +11,16 @@ Intussen ben ik al bijna twee weken thuis in Colorado, vandaar dat ik graag even
 
 Wat een geweldig leuke ervaring om weer een nieuwe Staat te bezoeken. Dit keer het gebied van de Amish en de Mennonieten. Het debriefing retreat voor zendelingen werd in Lancaster County in Pennsylvania gehouden, in het mooie stadje Ephrata. Wat een andere wereld dan Colorado! Het heuvelachtig gebied deed mij veel aan Duitsland en Luxemburg denken. Het wordt ook wel Pennsylvania Dutch genoemd (Deutsch) vanwege de oude geschiedenis van Duitse emigranten die overgekomen zijn naar Pennsylvania. Echt mooi!
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/39161b39-2704-4b67-9aef-c6b4c95adfd8.jpg" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/ae53e659-5ff1-454d-86d5-4c014e4208f3.jpg" >}}
-</div>
+{{< /gallery >}}
 
 ## "Herstellen en leven geven"
 
 {{< figure class="image right" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/76648f11-3d23-466c-a49b-a41eb37457b3.jpg" >}}
-Eén van de deelnemers die ik mocht debriefen gaf aan dat het retreat echt herstel en nieuw leven bracht. 
+Eén van de deelnemers die ik mocht debriefen gaf aan dat het retreat echt herstel en nieuw leven bracht.
 
 Wat kan een "batterij" snel leeg zijn en wat is het dan lekker om weer opgeladen te worden met duidelijke stappen in de goede richting van herstel en genezing. Soms gewoon simpel meer inzicht krijgen en een betere grip op de situatie waarin ze zitten.
 
@@ -50,17 +50,17 @@ We hebben ook drie dagen de tijd genomen om te werken aan WELLNESS. Samen hebben
 
 Terwijl wij met de volwassenen aan de slag waren, hadden we ook twee debriefers die met de tieners en kinderen aan de slag zijn gegaan. Dezelfde onderwerpen zijn behandeld, maar speciaal gericht op de leeftijd van tieners en kinderen. Zo speciaal en zo mooi om hun proces en enthousiaste te "horen" tijdens het eten of in de wandelgangen. Vier cross-culturele kinderen kregen een Amerikaanse vlag en symbolisch hebben ze de vlagstok in de grond gestoken. Hiermee gaven ze aan dat ze willen "wortelen" in Amerika en kunnen zeggen "Ik ben Amerikaan".
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/1d750cbd-9a9f-48c0-92aa-eb3ab7dc6780.jpg" title="Materiaal dat gebruikt wordt voor de debriefing van de kinderen. Op deze manier kunnen ze hun verhaal doen. Gevoelens herkennen met een lach en een traan." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/6d8cb125-33c3-4fb3-ad40-a50bb7f8d8e1.jpg" title="Met bouwblokken hebben de kids een 'transition-bridge' gebouwd. Elk blok beschrijft een gevoel zoals, gemis, afscheid, vrienden, eten en hun eigen vertrouwde slaapkamer die ze in de 'overgang' hebben moeten achterlaten." >}}
-</div>
+{{< /gallery >}}
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/f7314515-371c-45b5-aa24-56376675ac7a.jpg" title="Een middag samen creatief aan de slag! Een gebroken pot herstellen." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/bc250572-d716-49c1-9af8-2e8ebb9e83bb.jpg" title="God pakt onze gebrokenheid weer op en maakt alles heel en volmaakt. Je bent van waarde!" >}}
-</div>
+{{< /gallery >}}
 
 **Wat een voorrecht om te mogen investeren in de levens van deze zendelingen! Mede dankzij jullie gebed en ondersteuning is mijn werk in zendelingen zorg mogelijk. BEDANKT!**
 
@@ -69,4 +69,3 @@ Terwijl wij met de volwassenen aan de slag waren, hadden we ook twee debriefers 
 
 {{< figure class="image fit" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/a83cf9c3-4754-441a-a009-6b29093c7486.jpg" >}}
 <figcaption class="full"><h4>Bemoedigd met een kaartje van een mooi gezin!</h4></figcaption>
-

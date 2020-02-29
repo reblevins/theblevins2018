@@ -14,11 +14,11 @@ This month marks 22 years ago that we went into missions and started our Youth w
 An incredible missionary adventure with God, an adventure in faith and trust, an adventure across borders, an adventure in being dependent on donations, an adventure in wonderful provision, blessings and testimonies.
 *22 years of missions made possible, in part, by you!*
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/5a67082e-10f8-4f82-b774-6cde28eb6c2a.jpg" title="First missions trip to Uganda in 1996." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/88237ffc-5962-438e-bd9d-20dce297046d.jpg" title="Yes, that is Rodney : ) Outreach in Jinja, Uganda" >}}
-</div>
+{{< /gallery >}}
 
 Help! We have a freshman and a middle-schooler!
 -----------------------------------------------
@@ -77,7 +77,7 @@ These last couple of weeks, I have been working on the site again, preparing the
 
 {{< figure class="image fit" src="/nl/img/pttw.png" title="October 1st, the Pray Through the Window prayer initiative will start again." link="https://www.windowreporter.com/" >}}
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/84c25867-6242-437a-9cf5-4a12354dbb43.jpeg" title="Our middle-schooler Sarah walking home from school." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/c61bc267-e4d7-4ee8-b44b-8e00c3a15700.jpeg" title="Our freshman, Lisa turned 15 this last August!" >}}
@@ -89,4 +89,4 @@ These last couple of weeks, I have been working on the site again, preparing the
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/f4f6da60-5b38-403c-b12b-08b5c3a2fff2.jpeg" title="Colorado is turning all kinds of beautiful colors at the moment." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/5568b029-9908-428e-8eb5-76166268ac23.jpeg" title="A family selfie with the Fall colors in the background." >}}
-</div>
+{{< /gallery >}}

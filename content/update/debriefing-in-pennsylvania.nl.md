@@ -13,11 +13,11 @@ Wat leuk te zien en te horen van jullie sneeuw avonturen in Nederland! Gezellige
 
 Vorige week nog probeerde Jo, tijdens een onverwachte sneeuwstorm, Sarah naar school te brengen. We wonen in een soort valleitje en konden vanuit onze straat geen kant op. Alle richtingen moesten we "klimmen" en auto's kwamen net zo hard weer terug naar beneden "gegleden". Het blijft een avontuur, maar we raken de extreme weersveranderingen hier zo langzamerhand gewend.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/e85daa19-d02e-4691-a7c5-e53d59c80838.jpg" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/44c2320a-199d-4ad6-9173-25b4d29a2087.jpg" >}}
-</div>
+{{< /gallery >}}
 
 ## Naturalisatie tot Amerikaan
 {{< figure class="image right" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/47a46352-d9e2-4283-a25e-d3c773b599ee.jpeg" >}}
@@ -38,21 +38,21 @@ Ik zal tot 8 maart in Pennsylvania zijn. Tijdens mijn twee weken afwezigheid thu
 
 Rodney werkt sinds enkele maanden vanuit een nieuwe ruimere locatie. Het gaat goed met het bedrijf waar hij werkt en er was uitbreiding nodig voor enkele nieuwe collega's. Hij geniet van zijn eigen kantoorruimte en voor hem als introvert werkt dit erg prettig. Lekker doorwerken aan websites en weinig storende factoren.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/7281ff14-73ae-427d-bd9b-50a51d45abc9.jpg" title="Rod in zijn nieuwe kantoorruimte" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/307bd120-3094-4dde-a412-aec66c0544f4.jpg" title="Vergaderruimte" >}}
-</div>
+{{< /gallery >}}
 
 Sinds augustus vorig jaar is Rodney jeugdgroep leider geworden van de jeugdgroep in onze [gemeente](http://newlifedowntown.com/ "New Life Downtown"). Dit is een nieuwe ontwikkeling binnen onze gemeente, voor jongeren in de leeftijd van 12 tot 14 jaar. Het zijn jongeren die nu naar de middelbare school gaan en daar is onze Sarah er ook eentje van.
 
 Lisa is met enkele meiden van haar jeugdgroep een weekend op "Winterkamp" geweest naar [Camp Elim](https://campelim.com/ "Camp Elim"). Dit weekend was speciaal voor "Highschoolers" in de leeftijd van 14 t/m 18 jaar.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/8c4ae5ac-1f85-4ca9-a6c8-a544a460459c.png" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/93994831-3c51-43b3-aa7f-b1c86c00ffc5.jpg" >}}
-</div>
+{{< /gallery >}}
 
 ## ✈ We komen naar Nederland! ✈
 {{< figure class="image right" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/e753e1f3-fb4b-4911-b173-d72357d1ae58.jpeg" >}}
@@ -64,8 +64,8 @@ Om onze vliegreis mogelijk te maken zijn wij een GoFundMe gestart. Via deze "spo
 
 UPDATE: We hebben onz GoFundMe doel bereikt. Een super dank je wel aan jullie die gegeven hebben.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/f807ac4c-52a3-4410-bfce-f7854c2893b5.jpg" title="Sneeuwmonster!" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/7a6c5e17-af33-4a71-bdfb-42d6fb0c947b.jpeg" title="Onze twee 'beauties'!" >}}
-</div>
+{{< /gallery >}}

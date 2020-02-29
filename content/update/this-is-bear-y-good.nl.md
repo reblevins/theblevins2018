@@ -14,10 +14,10 @@ De afgelopen maanden zijn de beren behoorlijk actief in Colorado Springs en zien
 
 Na een fantastische zomer bij familie in Nederland en een week bij familie in Arizona, zijn we nu weer in “full swing” met school en onze bedieningen. Lisa is nu in 8th grade (haar derde jaar op de middelbare school) en Sarah in 5th grade (groep 7, maar hier haar laatste jaar op de lagere school).
 
-<div class="gallery">
+{{< gallery >}}
 	<img class="image left one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/7668f91f-1d61-4ef4-b9b5-9c62aaa5bfb2.jpg">
 	<img class="image right one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/db570363-c4e1-42ac-ae0c-bb6979a406da.jpg">
-</div>
+{{< /gallery >}}
 
 Twee JmeO bedieningen onder één dak!
 ------------------------------------
@@ -50,7 +50,7 @@ Rodney's oma 100 jaar!
 
 Op zaterdag 7 oktober wordt Rodney’s Oma Blevins 100 jaar. Samen met zijn ouders vanuit Arizona en zijn broer uit Californië zullen ze dat weekend met de familie Blevins in Oklahoma samenkomen. Een leuk feestelijk vooruitzicht en vooral bijzonder om deze mijlpaal van (overgroot)oma te vieren.
 
-<div class="gallery">
+{{< gallery >}}
 	{{< img src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/b14c352b-c988-468c-bcff-eb518b25a1cc.jpg" class="image left one-half" title="Jolanda deelde afgelopen juni in onze thuisgemeente de VEG Goes." >}}
 	{{< img src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/65e5183e-9794-45f4-83c4-ec8173039ad6.jpg" class="image right one-half" title="Rodney deelde afgelopen juli in onze thuisgemeente \"River of Life\" in Globe, Arizona." >}}
 	{{< img src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/8863ae7e-94f8-4ab8-b4bf-0da8a0267f72.jpg" class="image left one-half" >}}
@@ -62,4 +62,4 @@ Op zaterdag 7 oktober wordt Rodney’s Oma Blevins 100 jaar. Samen met zijn oude
 	{{< img src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/3d38386b-df39-4731-b520-5293d48328cd.jpg" class="image right one-half" title="Tijdens de zomervakantie waren de meiden ook geregeld mee naar Y360. Samen één missie: mama's kantoor onveilig maken ha ha." >}}
 
 	<div class="clearfix"></div>
-</div>
+{{< /gallery >}}

@@ -39,35 +39,35 @@ Baby shower voor Niang
 
 We hebben het al vaker gedeeld dat er elke zondag twee “kerken” hun erediensten in onze Y360 locatie houden. Eén van deze gemeentes is the "Myanmar Christian Fellowship”, een groep vluchtelingen uit Myanmar (voormalig Birma).
 
-Elk moment verwacht één van de Myanmar gezinnen een baby. We hebben de moeder, Niang, gezegend met een echte Amerikaanse “baby shower”. Ze had geen idee wat het inhield en waarom we dit voor haar wilde doen. Ze had tranen in haar ogen nadat we hadden uitgelegd dat we haar wilde zegenen met cadeaus (stromen van zegen!) voor de kleine en haar gezin. 
+Elk moment verwacht één van de Myanmar gezinnen een baby. We hebben de moeder, Niang, gezegend met een echte Amerikaanse “baby shower”. Ze had geen idee wat het inhield en waarom we dit voor haar wilde doen. Ze had tranen in haar ogen nadat we hadden uitgelegd dat we haar wilde zegenen met cadeaus (stromen van zegen!) voor de kleine en haar gezin.
 
 Dit gezin heeft geen familie hier en wij mogen nu haar “familie” zijn. Vanuit Y360 hebben we verschillende vrouwen uitgenodigd en zonder Niang te kennen, kwamen ze naar haar “baby shower” om haar te zegenen. Niet alleen met cadeaus, maar ook met liefde, betrokkenheid en gebed over haar, het gezin en haar dochter die elk moment geboren kan worden.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/3954371d-a4c7-47cb-bd12-1b47812b2a02.jpg" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/26ef521d-e8a3-4038-9bf6-577923ea6af9.jpg" >}}
-</div>
+{{< /gallery >}}
 
 ---
 
 __Lisa__ is 14 jaar en doet het super goed op de middelbare school. Al haar schoolvakken zijn “honors classes” (klinkt zo lekker Amerikaans hé?). Het houdt in dat ze in alles gevorderd is en op hoger niveau werkt. Lisa is lid van de “National Junior Honor Society” en dat betekent vele extra uurtjes school voor en na schooltijd. Ook moet ze dit schooljaar 30 uur vrijwilligerswerk doen. Deze uren maakt ze met plezier bij de peuters en kleuters van onze kerk. Ze geniet van haar wekelijkse “jeugdgroep” op zondagavond en ziet er nu al naar uit om in februari weer op “winterkamp” te gaan.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/ef8a9d1d-944a-4116-96cb-0c36fdad9e82.jpg" title="Lisa's jeugdgroep" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/bd8025a1-3964-4a66-9481-6aea9da38c56.jpg" title="Lisa in \"child care\"" >}}
-</div>
+{{< /gallery >}}
 
 ---
 
 __Sarah__ wordt volgende maand 11 en zit in haar laatste jaar op de lagere school. Vorige week zijn we naar een kennismakingsavond op de middelbare school geweest. Sarah had een mooi rapport en krijgt dit schooljaar voor het eerst geen bijles meer in Engelse taal. Deze dame moet er hard voor werken, maar ze komt er wel. Vorige week kreeg Sarah de eer om op school de “Amerikaanse vlag” te hijsen voor “Veterans Day”. Het was een officiële ceremonie om de “Veteranen” te danken en eren.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/4eb074b2-4771-4162-bc82-d77df0daef97.jpg" title="Vlag ceremonie op school" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/1122b888-fde0-4a3c-ad55-3ecb7ef55cdf.jpg" title="Sarah met vrienden op sportdag" >}}
-</div>
+{{< /gallery >}}
 
 {{< figure class="image right" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/d9fc5ee3-4d58-4abc-ad61-356a98db9538.jpg" >}}
 Thanksgiving
@@ -82,7 +82,7 @@ Het is een zegen om anderen tot zegen te mogen zijn!
 
 ---
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/cb24e3ce-1816-40c6-aeef-9cbea23d0aef.jpg" title="Rodney en zijn broer, Terry samen op de foto met hun honderdjarige oma. Feestelijk met kroon." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/b8730e38-4e39-4065-bec9-0ca94f5a1202.jpg" title="De tienermeiden van YWAM Y360. Lisa en Analise." >}}
@@ -92,4 +92,4 @@ Het is een zegen om anderen tot zegen te mogen zijn!
     {{< figure class="image one-half no-caption" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/e33fd88c-a69c-4c72-bbb8-ad6e8b98f8bb.jpg" >}}
 
     <div class="caption full"><h4>Colorado stijl... dagelijks lopen de herten rondom onze YWAM locatie.</h4></div>
-</div>
+{{< /gallery >}}

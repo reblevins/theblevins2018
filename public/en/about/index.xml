@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Blevins</title>
+    <link>https://zending.us/en/about/</link>
+    <description>Recent content on The Blevins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Feb 2018 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zending.us/en/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://zending.us/en/about-us/</link>
+      <pubDate>Mon, 26 Feb 2018 07:00:00 +0000</pubDate>
+      
+      <guid>https://zending.us/en/about-us/</guid>
+      <description>We, Rodney and Jolanda Blevins, have been missionaries with Youth With A Mission (YWAM) since 1997. Through various missions and ministry trips throughout the years, we have impacted people in 16 different countries spanning five continents!
+We both did a Discipleship Training School (DTS) at the YWAM base Heidebeek in Heerde, The Netherlands. The DTS is YWAM’s six month training course designed to help you understand God more deeply, live more like Jesus and identify your unique gifts and purpose to use in missions.</description>
+    </item>
+    
+    <item>
+      <title>Who is YWAM?</title>
+      <link>https://zending.us/en/faq/who-is-ywam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zending.us/en/faq/who-is-ywam/</guid>
+      <description>Youth With A Mission (YWAM) encompasses thousands of people and hundreds of ministries in almost every country of the world. In every case, our passion is to know God and to make Him known.
+We are a mixture of people from all over the world, from over 130 countries including places like Indonesia, Nepal and Mozambique. In many of our locations, people from a wide variety of nations serve side by side.</description>
+    </item>
+    
+  </channel>
+</rss>

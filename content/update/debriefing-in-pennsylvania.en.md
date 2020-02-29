@@ -13,11 +13,11 @@ It's been a snowy January, here in the US and in The Netherlands. It was on a sn
 
 A couple of weeks ago, during an unexpected snowstorm, Jolanda tried to bring Sarah to school. We live in a valley so every way she tried to go, she had to go uphill, and everywhere there were cars sliding back down those hills. Driving in the snow continues to be an adventure, but we are slowly getting used to it.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/e85daa19-d02e-4691-a7c5-e53d59c80838.jpg" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/44c2320a-199d-4ad6-9173-25b4d29a2087.jpg" >}}
-</div>
+{{< /gallery >}}
 
 ## American Citizenship
 {{< figure class="image right" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/47a46352-d9e2-4283-a25e-d3c773b599ee.jpeg" >}}
@@ -38,21 +38,21 @@ Jo will be in Pennsylvania until March 8th and Rodney's parents are flying in to
 
 A couple of months ago, the company Rodney works for moved to a larger location. Business is booming and so they needed some extra space to accommodate extra staff. He is privileged to have his own office which, being an introvert is very nice.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/7281ff14-73ae-427d-bd9b-50a51d45abc9.jpg" title="Rodney in his new office" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/307bd120-3094-4dde-a412-aec66c0544f4.jpg" title="Conference and 'situation room'" >}}
-</div>
+{{< /gallery >}}
 
 Last year, August [our church](http://newlifedowntown.com/ "New Life Downtown") started a Middle School youth group which meets on Sunday mornings during the regular service. Sarah is attending, and Rodney has also been volunteering. It's a fun, lively group with a great team of leaders.
 
 A few weeks ago, together with several girls from her youth group, Lisa went to Winter Camp at [Camp Elim](https://campelim.com/ "Camp Elim"). It was a fun weekend for High School kids filled with games, worship and teaching.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/8c4ae5ac-1f85-4ca9-a6c8-a544a460459c.png" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/93994831-3c51-43b3-aa7f-b1c86c00ffc5.jpg" >}}
-</div>
+{{< /gallery >}}
 
 ## ✈ Trip to The Netherlands! ✈
 {{< figure class="image right" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/e753e1f3-fb4b-4911-b173-d72357d1ae58.jpeg" >}}
@@ -64,8 +64,8 @@ To help fund the trip, we started a GoFundMe. We hope to be able to cover some o
 
 UPDATE: We have reached our GoFundMe goal! A special thanks to all those who gave.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/f807ac4c-52a3-4410-bfce-f7854c2893b5.jpg" title="Snow monster, uh, I mean angel" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/7a6c5e17-af33-4a71-bdfb-42d6fb0c947b.jpeg" title="Our two beauties!" >}}
-</div>
+{{< /gallery >}}

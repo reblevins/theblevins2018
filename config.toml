@@ -3,6 +3,10 @@ baseurl = "/"
 disableFastRender = true
 staticDir = "static"
 theme = "blevins"
+
+[markup.goldmark.renderer]
+    unsafe= true
+
 [languages.en]
 baseURL = "https://zending.us/en"
 languageName = "English"

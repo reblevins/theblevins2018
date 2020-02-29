@@ -11,11 +11,11 @@ Jolanda has put another notch in her belt, aka visited yet another, new state. B
 
 She had a great time visiting an area where Amish and Mennonites live. The debriefing retreat for missionaries was held in Lancaster County, Pennsylvania, in the pretty town of Ephrata. What a different world than Colorado! The rolling hills reminded her a lot of Germany and Luxembourg. It is also called Pennsylvania Dutch (Deutsch) because of the ancient history of German emigrants who came to Pennsylvania. Really beautiful!
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/39161b39-2704-4b67-9aef-c6b4c95adfd8.jpg" >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/ae53e659-5ff1-454d-86d5-4c014e4208f3.jpg" >}}
-</div>
+{{< /gallery >}}
 
 ## "Restoring and life-giving"
 
@@ -50,17 +50,17 @@ We also took three days to work on WELLNESS. Together we looked at the state of 
 
 While we were debriefing the adults, we also had two debriefers who worked with the kids and teenagers. They addressed the same topics with a special focus on the age of the kids and teenagers. So special and beautiful to "hear" their process and enthusiasm over lunch. What a big change some of those kids are going trough trying to find their way in America. Some cross-cultural children received an American flag to symbolically “plant" in the ground, to start “putting down roots" in America and will soon be able to say "I am an American”.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/1d750cbd-9a9f-48c0-92aa-eb3ab7dc6780.jpg" title="Materials used to help debrief the children, to help them tell their story and identify their feelings." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/6d8cb125-33c3-4fb3-ad40-a50bb7f8d8e1.jpg" title="The kids built their own transition bridge out of Duplo blocks. Each block represents a feeling such as, loss, saying goodbye to friends, food and their own familiar bedroom that they had to leave behind in the 'transition'." >}}
-</div>
+{{< /gallery >}}
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/f7314515-371c-45b5-aa24-56376675ac7a.jpg" title="What can we learn from a broken pot? Mending broken pottery with gold." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/bc250572-d716-49c1-9af8-2e8ebb9e83bb.jpg" title="God picks up our brokenness and makes everything whole and perfect again." >}}
-</div>
+{{< /gallery >}}
 
 **What a privilege to invest in the lives of these missionaries! Thanks in part to your prayers and support, Jo's work in missionary care is possible.**
 

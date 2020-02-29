@@ -17,16 +17,16 @@ Debriefing Retreat
 ------------------
 
 The retreat was organized by YWAM colleagues Kevin and Sue Prins, who from their own experience want to pass on why it is so good to return to the mission field with good resilience and being better equipped. It is also important to bring closure after a long period on the mission field and prepare for return to your "passport country" which, after such a long time away, might not feel the same as when you left it. ([www.excellingleaders.org](http://www.excellingleaders.org))
- 
+
 Kevin and Sue had approached Jolanda last year to work with their staff team, but until now, this was practically impossible with the kids at home. Fortunately, Rodney's parents were able to fly in from Arizona and help out with the girls, allowing Jolanda to focus completely on the debriefing of these missionaries.
 
 Their Debriefing team consisted of six people and they first met for a few days to prepare the lessons and the personal debriefing. On Friday, April 27, all participants arrived, two families with a total of 5 children, a couple and a single.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/6a2e2af6-6820-4aec-ad74-fdc268bbd685.jpeg" title="A team-building exercise we did during our preparation for the debriefing retreat." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/8ee29777-3e04-434d-be3a-4aa5f451c65e.jpeg" title="Jo was given full creative license to prepare the welcome baskets for the participants." >}}
-</div>
+{{< /gallery >}}
 
 "We help missionaries tell their story"
 ---------------------------------------
@@ -35,11 +35,11 @@ A debriefing is a relational process in which the realities of the past and thei
 
 There was also a team member debriefing the five children at their age level. They walked the children through a debriefing based on the biblical story of Abraham including creative activities. They talked about Abraham also having to move and pack up his tent. What all did Abraham take with him and what did he leave behind? What or who do you leave behind to start again somewhere else?
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/ba8229d3-246b-4a15-ae2a-ef87216af9b2.jpeg" >}}
-    
+
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/c42c91b4-6dc7-47c2-ac10-3eb83bf40d2b.jpg" >}}
-</div>
+{{< /gallery >}}
 
 Broken "shards" become whole again
 ----------------------------------
@@ -50,11 +50,11 @@ We all know that feeling: that we were once a "beautiful flowerpot". Sometimes t
 
 God picks up these "shards", sees them and uses all these experiences, everything that is "broken", and brings healing and breakthrough to make you whole again. He brings everything back to the right place, to a beautiful new pot, a new you! Sometimes the scars remain visible, but God gives "Golden Paint" and brings relief, clarity and healing through His touch and anointing. The cracks may still be visible, but now they are filled with precious gold. You are of value, you are unique and worth more than GOLD.
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/23f35169-de1a-4080-82b6-a54a628f7785.jpeg" title="Shards are glued back together again. God puts everything back in the right place and heals brokenness." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/88b69452-990b-4963-98d3-1146672e5ce8.jpeg" title="The glued cracks are covered with golden paint! The pot is whole again and has even more value than before." >}}
-</div>
+{{< /gallery >}}
 
 The participants all broke a flower pot and glued it back together again. This "act" gave a lot of food for thought and brought healing. While they painted over the cracks with gold paint, the stories and testimonies of what God is doing in their personal lives started pouring out.
 
@@ -66,7 +66,7 @@ I, Rodney, have had the privilege this month of working on another ministry webs
 
 The 10&#47;40 window refers to those regions of the eastern hemisphere, plus the European and African part of the western hemisphere, located between 10 and 40 degrees north of the equator, that was purported to have the highest level of socioeconomic challenges and least access to the Christian message and Christian resources on the planet. A refresher course on exactly what the 10&#47;40 window is, can be found on their main ministry website. (Which we will also be redoing for them. More on that in a future update.)
 
-<div class="gallery">
+{{< gallery >}}
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/ea91b8bb-3a3c-4599-8609-2001b9932d90.jpeg" title="Sarah giving a presentation on family night at school." >}}
 
     {{< figure class="image one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/ad757e18-3346-46e8-82a5-30cc9ddaaf4c.jpeg" title="Lisa giving a presentation she made about a short story she wrote." >}}
@@ -78,4 +78,4 @@ The 10&#47;40 window refers to those regions of the eastern hemisphere, plus the
     {{< figure class="image" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/0258959c-6e93-4dd7-9168-f2ad81d09dce.jpeg" title="Lisa enjoyed her last year of middle school volleyball. Her team was undefeated!" >}}
 
     {{< figure class="image" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/5a9875eb-ac65-4ff5-ab8e-d7e8b1d91f76.jpeg" title="Sarah sang with her school choir this year. Hopefully she will continue with choir next year in middle school. (top row, 4th from the left!)" >}}
-</div>
+{{< /gallery >}}

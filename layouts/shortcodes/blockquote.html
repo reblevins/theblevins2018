@@ -1,0 +1,3 @@
+<blockquote style="{{ with .Get "bgcolor" }}background-color: {{ . }}; {{ end }}{{ with .Get "color" }}">
+    {{ .Inner }}
+</blockquote>

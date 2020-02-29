@@ -14,10 +14,10 @@ The last few months, the news has been full of bears active in and around Colora
 
 After a great summer with lots of time with family, Jo and the girls in The Netherlands and then all of us in Arizona, we are back in "full swing" with school and ministry. Lisa is now an 8th-grader (she'll be in high school next year!!!) and Sarah started 5th grade (her last year in elementary school).
 
-<div class="gallery">
+{{< gallery >}}
 	<img class="image left one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/7668f91f-1d61-4ef4-b9b5-9c62aaa5bfb2.jpg">
 	<img class="image right one-half" src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/db570363-c4e1-42ac-ae0c-bb6979a406da.jpg">
-</div>
+{{< /gallery >}}
 
 Two Ministries Under one Roof
 -----------------------------
@@ -48,7 +48,7 @@ On Saturday, October 7th, my, (Rodney), Grandma, Edna will turn 100! I will be f
 
 This last March we were in Oklahoma for Spring Break and our girls got to spend some time with Great Grandma.
 
-<div class="gallery">
+{{< gallery >}}
 	{{< img src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/b14c352b-c988-468c-bcff-eb518b25a1cc.jpg" class="image left one-half" title="Jolanda sharing in her church in The Netherlands this past Summer." >}}
 	{{< img src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/65e5183e-9794-45f4-83c4-ec8173039ad6.jpg" class="image right one-half" title="Rodney also got to share in his church in Globe." >}}
 	{{< img src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/8863ae7e-94f8-4ab8-b4bf-0da8a0267f72.jpg" class="image no-caption left one-half" >}}
@@ -60,4 +60,4 @@ This last March we were in Oklahoma for Spring Break and our girls got to spend 
 	{{< img src="https://gallery.mailchimp.com/6228a0cf79ca61e3c578c811a/images/3d38386b-df39-4731-b520-5293d48328cd.jpg" class="image right one-half" title="During Summer break the girls had to go to Y360 with Mom." >}}
 
 	<div class="clearfix"></div>
-</div>
+{{< /gallery >}}
